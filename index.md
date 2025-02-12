@@ -5,7 +5,7 @@ title: "OSGeo: UK"
 
 ### Save the date! FOSS4G:UK 2025 will be in Leeds on Wed 1st and Thu 2nd October 2025
 
-Our next FOSS4G:UK will be an in-person event in Leeds on 1st and 2nd October 2025. More details and a website will be shared soon - follow us on social media: [LinkedIn](https://www.linkedin.com/company/osgeo-uk/) [Mastodon](https://fosstodon.org/@osgeouk) [Twitter/X](https://twitter.com/osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and/or [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view) to hear when we have more details. Start thinking about your submission for the Call for Talks - we want to hear what you have been up to with Free & Open Source 4 Geospatial!
+Our next FOSS4G:UK will be an in-person event in Leeds on 1st and 2nd October 2025. More details and a website will be shared soon - follow us on social media: [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [Twitter/X](https://twitter.com/osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and/or [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view) to hear when we have more details. Start thinking about your submission for the Call for Talks - we want to hear what you have been up to with Free & Open Source 4 Geospatial!
 
 ----
 
