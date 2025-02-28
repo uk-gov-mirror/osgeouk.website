@@ -58,7 +58,7 @@ Sustaining membership income is used primarily for bug fixing, quality assurance
 
 *Andreas Neumann, QGIS.org Treasurer*
 
-[<img src="images/qgis_small_sustaining-member_2025_highres.png" width="100">](https://qgis.org/funding/membership/members/)
+[<img src="images/qgis_small_sustaining-member_2025_highres.png" width="150">](https://qgis.org/funding/membership/members/)
 
 
 
