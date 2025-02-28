@@ -50,13 +50,17 @@ The funding from OSGeo:UK has been pivotal to the development of Terra Draw. The
 
 "QGIS is the most popular Desktop Open Source GIS and offers tools not only for traditional GIS users, but also for serving data on the web, collecting data in the field, manipulating (geo)data with automated workflows and as a toolkit for developers. 
 
+Another active (Q)GIS year has passed with many improvements in QGIS itself (desktop, mobile, server, web client and wasm) and its infrastructure. Finally, we released our new and modern QGIS website. Many of these improvements could only be realized or implemented because you supported QGIS in the past. Thank you very much!
+
 With the growing size of the QGIS project and community there are new challenges and growing pains as a result of this success. Sustaining memberships, such as the one provided by OSGeo:UK, ensure that [QGIS.ORG](https://qgis.org/) can finance projects, people and infrastructure in order to overcome these growing pains and meet these challenges. They help us to offer an ever improving QGIS for at least another 20 years to our users. 
 
 Sustaining membership income is used primarily for bug fixing, quality assurance, infrastructure, documentation, system administration, software packaging and the QGIS grant program. The grant program helps to improve QGIS under the hood: code refactoring, polishing of existing tools, infrastructure work, etc. Financial reports of [QGIS.ORG](https://qgis.org/) can be found in the [QGIS finance section](https://www.qgis.org/en/site/getinvolved/governance/finance/index.html)."
 
 *Andreas Neumann, QGIS.org Treasurer*
 
-[<img src="images/QGIS_logo_new.svg.png " width="100">](https://qgis.org/)
+[<img src="images/qgis_small_sustaining-member_2025_highres.png" width="100">](https://qgis.org/funding/membership/members/)
+
+
 
 ----
 
