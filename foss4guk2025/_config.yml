@@ -2,7 +2,7 @@ title: FOSS4G UK 2025
 preposition: at
 description: >-
   Conference of OSGeo:UK organization
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/foss4guk2025" # the subpath of your site, e.g. /blog
 url: "https://uk.osgeo.org/foss4guk2025/"
 
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
