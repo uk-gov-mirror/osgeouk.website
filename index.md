@@ -70,13 +70,13 @@ See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for 
 
 For updates follow [@osgeouk on Mastodon](https://fosstodon.org/@osgeouk), [@osgeouk on Twitter](https://twitter.com/osgeouk){:target="_newpage"}, [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, or [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"}.
 
-<!--
+
 ### Training
 
 See the [training page](training.html) for details of upcoming training courses related to OSGeo projects. 
 
-Training providers- see the instructions at the bottom of that page for how to add your own courses to the list.
--->
+Training providers - see the instructions at the bottom of that page for how to add your own courses to the list.
+
 
 ### Legal
 
