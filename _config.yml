@@ -1,0 +1,4 @@
+keep_files: ["foss4guk2025", "jekyll-theme-conference"]
+exclude:
+  - "foss4guk2025"
+  - "vendor"
