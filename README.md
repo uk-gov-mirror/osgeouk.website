@@ -11,13 +11,16 @@ For more involved edits build the Jekyll site locally:
 * Clone the repositiory and checkout the `gh-pages` branch.
 * Make your changes and test with:
 
-```bundle exec jekyll serve``` 
+foss4guk2025 uses a separate theme and hence needs to be build separately
+```cd foss4guk2025 && bundle install & bundle exec jekyll build```
+
+```bundle exec jekyll serve```
 
 ## Updating training courses
 
 To update the training course table you need to edit
 `_data/osgeouk_training.csv`. Once you've edited the CSV please make sure it's
-valid using https://csvlint.io/.
+valid using <https://csvlint.io/>.
 
 ## Pushing to the live site
 
