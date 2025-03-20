@@ -1,5 +1,5 @@
 ---
-layout: location
+layout: page
 ---
 
 The conference location will be [Horizon Leeds](https://horizonleeds.co.uk/) - a modern and fully-accessible venue in the centre of town, part of the NHS Conferderation. As well as a theatre-style main space, there are two other large meeting rooms suitable for workshops or smaller groups, and a central catering and seating area for networking, sponsors and lunch/coffee. 
