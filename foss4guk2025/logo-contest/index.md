@@ -38,7 +38,6 @@ Get your creative juices flowing - we can’t wait to see what you come up with!
 The winning designer will score:
 
 * A **full conference registration** (your golden ticket to all the geospatial action!)
-<!-- * A **ticket to the conference dinner** (great food, great company, and maybe even a round of applause!) -->
 * Exclusive **swag featuring your logo** (because who doesn’t love showing off their own masterpiece?)
 
 Create a design that dazzles, and you could be the star of the show - literally!
