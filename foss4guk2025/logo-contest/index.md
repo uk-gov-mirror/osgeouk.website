@@ -33,7 +33,7 @@ Get your creative juices flowing - we can’t wait to see what you come up with!
 * **Not a pro with scalable formats?** No worries! Submit what you’ve got - we’re here to help make it work
 * **Upload Options:**
 
-1. Email you entry at <contact@jsonsingh.com>
+ Email you entry at <osgeouk@gmail.com>
 
 ### Prize
 
@@ -63,7 +63,7 @@ Your design should embody the spirit of FOSS4G UK 2025 while meeting the followi
 **Must-Haves**
 
 * **OSGeo/FOSS4G Ribbon:** Incorporate elements of the iconic "ribbon" [used in past FOSS4G conference logos](http://foss4g.org/)
-<img src="/assets/images/OSGeo-Ribbon.jpg" width="50" height="50">
+<img src="/foss4guk2025/assets/images/OSGeo-Ribbon.jpg" width="50" height="50">
 
 * **UK & Leeds Themes:** Reflect the region and host country in your design
 * **T-Shirt Friendly:** Use a minimal color palette to ensure low-cost, high-quality printing
