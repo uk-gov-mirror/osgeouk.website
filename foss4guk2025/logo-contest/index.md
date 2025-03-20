@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FOSS4G UK 2025 Logo Contest
+title: FOSS4G:UK 2025 Logo Contest
 ---
 
 # Winning Logo
@@ -9,19 +9,19 @@ _The winning logo will be showcased here_
 
 ## Logo Design
 
-The **FOSS4G UK 2025 Local Organising Committee** is thrilled to announce a design competition for our official conference logo. We need your creative flair to craft a bold and recognizable emblem for the conference, which will be held in **Leeds on 1st-2nd October, 2025**.
+The **FOSS4G:UK 2025 Local Organising Committee** is thrilled to announce a design competition for our official conference logo. We need your creative flair to craft a bold and recognizable emblem for the conference, which will be held in **Leeds on 1st-2nd October, 2025**.
 
 Whether you're a seasoned designer, a hobbyist, or even a team of creative thinkers (yes, design agencies, you’re welcome too!), this is your chance to leave your mark on the open-source geospatial community.
 
 ### What’s in it for you?
 
-Bragging rights, of course! Your logo will represent FOSS4G UK 2025 across digital and print platforms, conference swag, and beyond. Plus, you'll gain the admiration of mappers, coders, and geospatial enthusiasts from all around UK.
+Bragging rights, of course! Your logo will represent FOSS4G:UK 2025 across digital and print platforms, conference swag, and beyond. Plus, you'll gain the admiration of mappers, coders, and geospatial enthusiasts from all around UK.
 
 ## Important Details
 
 * **Design Brief:** We've borrowed some inspiration from SotM's own guidelines, available here [FOSS4G 2017](https://wiki.osgeo.org/wiki/FOSS4G_2017/Logo_Contest)
-* **Submission Deadline:** Entries must be uploaded to the OSGeo Wiki by **10th June 2025**. (Pro tip: early birds catch more feedback!)
-* **Licensing:** By submitting, you agree to assign an open license so that OSGeo UK can use the logo across various mediums. (Don’t worry, we’ll give you all the credit!)
+* **Submission Deadline:** Entries must be emailed to <osgeouk@gmail.com> by **10th June 2025**. 
+* **Licensing:** By submitting, you agree to assign an open license so that OSGeo:UK can use the logo across various mediums. (Don’t worry, we’ll give you all the credit!)
 * **Refinements:** The committee may collaborate with the winner to fine-tune the design for maximum impact.
 
 Need inspiration? Check out examples of past FOSS4G logos.
@@ -31,16 +31,14 @@ Get your creative juices flowing - we can’t wait to see what you come up with!
 
 * **File Formats:** Create your logo in **PNG** format and also in a scalable format, such as **SVG** or **PDF**. (Think big - your logo might end up on a billboard!)
 * **Not a pro with scalable formats?** No worries! Submit what you’ve got - we’re here to help make it work
-* **Upload Options:**
-
- Email you entry at <osgeouk@gmail.com>
+* **Upload Options:** Email your entry to <osgeouk@gmail.com> by **10th June 2025**
 
 ### Prize
 
 The winning designer will score:
 
 * A **full conference registration** (your golden ticket to all the geospatial action!)
-* A **ticket to the conference dinner** (great food, great company, and maybe even a round of applause!)
+<!-- * A **ticket to the conference dinner** (great food, great company, and maybe even a round of applause!) -->
 * Exclusive **swag featuring your logo** (because who doesn’t love showing off their own masterpiece?)
 
 Create a design that dazzles, and you could be the star of the show - literally!
@@ -58,7 +56,7 @@ In short, your design will be the face of the conference - seen by geospatial ge
 
 ### Design Brief
 
-Your design should embody the spirit of FOSS4G UK 2025 while meeting the following guidelines:
+Your design should embody the spirit of FOSS4G:UK 2025 while meeting the following guidelines:
 
 **Must-Haves**
 
