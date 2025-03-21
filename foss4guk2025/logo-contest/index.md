@@ -15,7 +15,7 @@ Whether you're a seasoned designer, a hobbyist, or even a team of creative think
 
 ### What’s in it for you?
 
-Bragging rights, of course! Your logo will represent FOSS4G:UK 2025 across digital and print platforms, conference swag, and beyond. Plus, you'll gain the admiration of mappers, coders, and geospatial enthusiasts from all around UK.
+Bragging rights, of course! Your logo will represent FOSS4G:UK 2025 across digital and print platforms, conference t-shirts, and beyond. Plus, you'll gain the admiration of mappers, coders, and geospatial enthusiasts from all around UK.
 
 ## Important Details
 
@@ -24,21 +24,20 @@ Bragging rights, of course! Your logo will represent FOSS4G:UK 2025 across digit
 * **Licensing:** By submitting, you agree to assign an open license so that OSGeo:UK can use the logo across various mediums. (Don’t worry, we’ll give you all the credit!)
 * **Refinements:** The committee may collaborate with the winner to fine-tune the design for maximum impact.
 
-Need inspiration? Check out examples of past FOSS4G logos.
-Get your creative juices flowing - we can’t wait to see what you come up with!
+Need inspiration? Check out examples of past FOSS4G logos. Get your creative juices flowing - we can’t wait to see what you come up with!
 
 ### How to enter
 
 * **File Formats:** Create your logo in **PNG** format and also in a scalable format, such as **SVG** or **PDF**. (Think big - your logo might end up on a billboard!)
 * **Not a pro with scalable formats?** No worries! Submit what you’ve got - we’re here to help make it work
-* **Upload Options:** Email your entry to <osgeouk@gmail.com> by **10th June 2025**
+* **Upload Options:** Email your entry to <osgeouk@gmail.com> by **Sunday 13th April 2025**
 
 ### Prize
 
 The winning designer will score:
 
 * A **full conference registration** (your golden ticket to all the geospatial action!)
-* Exclusive **swag featuring your logo** (because who doesn’t love showing off their own masterpiece?)
+* Exclusive **t-shirt featuring your logo** (because who doesn’t love showing off their own masterpiece?)
 
 Create a design that dazzles, and you could be the star of the show - literally!
 
@@ -46,8 +45,8 @@ Create a design that dazzles, and you could be the star of the show - literally!
 
 Your logo will be everywhere - truly! It’ll feature on:
 
-* The **conference website**, **social media**, **flyers**, and **emails**
-* **Sponsor communications** and all sorts of **conference swag** (think t-shirts, bags, lanyards, pens - you name it)
+* The **conference website**, **social media profiles**, **flyers**, and **emails**
+* **Sponsor communications** and **conference t-shirts**
 * **Printed materials** at the conference banners and the official conference guide
 * **Web-based button images** for use on third-party websites, blogs, or wherever people want to proudly promote their speaking gig or attendance
 
