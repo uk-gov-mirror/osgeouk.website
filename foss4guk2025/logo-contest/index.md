@@ -20,7 +20,6 @@ Bragging rights, of course! Your logo will represent FOSS4G:UK 2025 across digit
 ## Important Details
 
 * **Design Brief:** We've borrowed some inspiration from SotM's own guidelines, available here [FOSS4G 2017](https://wiki.osgeo.org/wiki/FOSS4G_2017/Logo_Contest)
-* **Submission Deadline:** Entries must be emailed to <osgeouk@gmail.com> by **10th June 2025**. 
 * **Licensing:** By submitting, you agree to assign an open license so that OSGeo:UK can use the logo across various mediums. (Don’t worry, we’ll give you all the credit!)
 * **Refinements:** The committee may collaborate with the winner to fine-tune the design for maximum impact.
 
