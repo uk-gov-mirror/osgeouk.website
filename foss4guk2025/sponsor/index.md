@@ -9,7 +9,7 @@ FOSS4G:UK in Leeds will be the first full in-person national event in the UK sin
 
 As a sponsor you are helping us deliver the event in its entirety. Your sponsorship will go towards our logistics, organisation, venue costs, administration, and enabling OSGeo:UK to continue its work in showcasing open source GIS software in the UK.
 
-We’ve created the following sponsorship packages for the event, and are happy to discuss specific details for all sponsors, according to the package selected - contact our sponsorship lead [Matt Travis](mailto:osgeouk@gmail.com) for more details.
+We’ve created the following sponsorship packages for the event, and are happy to discuss specific details for all sponsors, according to the package selected - contact our sponsorship lead [Matt Travis](mailto:matt.travis1@gmail.com) for more details.
 
 # Sponsorship Packages
 
