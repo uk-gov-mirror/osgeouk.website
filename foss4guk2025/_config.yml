@@ -74,6 +74,10 @@ conference:
         relative_url: /sponsor/
       - name: Logo Contest
         relative_url: /logo-contest/
+      - name: Committee
+        relative_url: /committee/
+      - name: Registration
+        relative_url: /registration/
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
