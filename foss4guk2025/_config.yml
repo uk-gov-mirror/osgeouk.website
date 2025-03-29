@@ -79,7 +79,7 @@ conference:
       - name: Registration
         relative_url: /registration/
       - name: Call for Talks
-        relative_url: /talks/
+        relative_url: /callfortalks/
       # - name: Speakers
       #   relative_url: /speakers/
       # - name: Location
@@ -109,7 +109,7 @@ conference:
       - name: Registration
         relative_url: /registration/
       - name: Call for Talks
-        relative_url: /talks/
+        relative_url: /callfortalks/
       # - name: How to get there
       #   relative_url: /location/
       # - name: Tickets
