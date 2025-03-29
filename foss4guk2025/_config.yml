@@ -78,9 +78,7 @@ conference:
         relative_url: /committee/
       - name: Registration
         relative_url: /registration/
-       - name: Registration
-        relative_url: /registration/
-       - name: Talks
+      - name: Call for Talks
         relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
