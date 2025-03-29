@@ -100,6 +100,10 @@ conference:
         relative_url: /sponsor/
       - name: Logo Contest
         relative_url: /logo-contest/
+      - name: Committee
+        relative_url: /committee/
+      - name: Registration
+        relative_url: /registration/
       # - name: How to get there
       #   relative_url: /location/
       # - name: Tickets
