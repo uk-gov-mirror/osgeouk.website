@@ -46,20 +46,20 @@ title: FOSS4G:UK 2025 Local Organising Committee
 <h3 style="margin-bottom:0; padding-bottom:0;">Json Singh</h3>
 <em>Website | Freelance</em>
 
-[Json on jsonsingh.com](https://jsonsingh.com "LinkedIn"){:target="_blank"}
+[Json on jsonsingh.com](https://jsonsingh.com){:target="_blank"}
 
 <br>
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Jonny Huck</h3>
 <em>Website | Manchester University</em>
 
-[Jonny on jonnyhuck.co.uk](http://jonnyhuck.co.uk/ "LinkedIn"){:target="_blank"}
+[Jonny on jonnyhuck.co.uk](http://jonnyhuck.co.uk/){:target="_blank"}
 
 <br>
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Weiming Huang</h3>
 <em>Programme | Leeds University</em>
 
-[Weiming at Leeds](https://environment.leeds.ac.uk/geography/staff/13092/dr-weiming-huang) "LinkedIn"){:target="_blank"}
+[Weiming at Leeds](https://environment.leeds.ac.uk/geography/staff/13092/dr-weiming-huang){:target="_blank"}
 
 <br>
