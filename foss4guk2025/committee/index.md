@@ -25,8 +25,41 @@ title: FOSS4G:UK 2025 Local Organising Committee
 
 <br>
 <h3 style="margin-bottom:0; padding-bottom:0;">Nick Bearman</h3>
-<em>Website, Social Medial | Freelance</em>
+<em>Website, Social Media | Freelance</em>
 
 [Nick on LinkedIn](https://www.linkedin.com/in/nickbearman "LinkedIn"){:target="_blank"}
+
+<br>
+<h3 style="margin-bottom:0; padding-bottom:0;">Ant Scott</h3>
+<em>Website, Ticketing | Freelance</em>
+
+[Ant on Mastodon](https://mastodon.social/@antscott "Mastodon"){:target="_blank"}
+
+<br>
+<h3 style="margin-bottom:0; padding-bottom:0;">Claire Birnie</h3>
+<em>Social Event | Maptastic</em>
+
+[Claire on LinkedIn](https://www.linkedin.com/in/clairelouisebirnie/?originalSubdomain=uk "LinkedIn"){:target="_blank"}
+
+<br>
+
+<h3 style="margin-bottom:0; padding-bottom:0;">Json Singh</h3>
+<em>Website | Freelance</em>
+
+[Json on jsonsing.com](https://jsonsingh.com "LinkedIn"){:target="_blank"}
+
+<br>
+
+<h3 style="margin-bottom:0; padding-bottom:0;">Jonny Huck</h3>
+<em>Website | Manchester University</em>
+
+[Jonny on jonnyhuck.co.uk](http://jonnyhuck.co.uk/ "LinkedIn"){:target="_blank"}
+
+<br>
+
+<h3 style="margin-bottom:0; padding-bottom:0;">Weiming Huang</h3>
+<em>Programme | Leeds University</em>
+
+[Weiming at Leeds](https://environment.leeds.ac.uk/geography/staff/13092/dr-weiming-huang) "LinkedIn"){:target="_blank"}
 
 <br>
