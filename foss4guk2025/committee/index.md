@@ -15,7 +15,7 @@ title: FOSS4G:UK 2025 Local Organising Committee
 <h3 style="margin-bottom:0; padding-bottom:0;">Dave Barter</h3>
 <em>Nautoguide</em>
 
-[Dave on LinkedIn](https://www.linkedin.com/in/dave-barter-43ab672/) "LinkedIn"){:target="_blank"}
+[Dave on LinkedIn](https://www.linkedin.com/in/dave-barter-43ab672/ "LinkedIn"){:target="_blank"}
 
 <br>
 <h3 style="margin-bottom:0; padding-bottom:0;">Matt Travis</h3>
