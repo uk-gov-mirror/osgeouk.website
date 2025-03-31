@@ -11,13 +11,6 @@ title: FOSS4G:UK 2025 Local Organising Committee
 [Dennis on LinkedIn](https://www.linkedin.com/in/dennis-bauszus-45b55760/ "LinkedIn"){:target="_blank"}
 
 <br>
-
-<h3 style="margin-bottom:0; padding-bottom:0;">Dave Barter</h3>
-<em>Nautoguide</em>
-
-[Dave on LinkedIn](https://www.linkedin.com/in/dave-barter-43ab672/ "LinkedIn"){:target="_blank"}
-
-<br>
 <h3 style="margin-bottom:0; padding-bottom:0;">Matt Travis</h3>
 <em>Treasurer, Sponsorship | Addresscloud</em>
 
