@@ -9,32 +9,32 @@ FOSS4G:UK in Leeds will be the first full in-person national event in the UK sin
 
 As a sponsor you are helping us deliver the event in its entirety. Your sponsorship will go towards our logistics, organisation, venue costs, administration, and enabling OSGeo:UK to continue its work in showcasing open source GIS software in the UK.
 
+## Sponsorship Packages
+
 We’ve created the following sponsorship packages for the event, and are happy to discuss specific details for all sponsors, according to the package selected - contact our sponsorship lead [Matt Travis](mailto:matt.travis1@gmail.com) for more details.
 
-# Sponsorship Packages
-
-## FOSS4G:UK 2025 Gold sponsor: £2,500
+### FOSS4G:UK 2025 Gold sponsor: £2,500
 
 * large logo on website and all registration and promotional materials and listed as a Gold sponsor  
 * logo and company name added to introduction and other materials
 * banner and promotional material placement
 * three conference tickets
 
-## FOSS4G:UK 2025 Silver sponsor: £1,500
+### FOSS4G:UK 2025 Silver sponsor: £1,500
 
 * logo on website and listed as a Silver sponsor  
 * logo and company name added to introduction and other materials  
 * banner and promotional material placement
 * two conference tickets
 
-## FOSS4G:UK 2025 Bronze sponsor: £500
+### FOSS4G:UK 2025 Bronze sponsor: £500
 
 * logo on website and listed as a Bronze sponsor  
 * logo and company name added to introduction  
 * promotional material placement
 * one conference ticket
 
-## FOSS4G:UK 2025 Community sponsor: free
+### FOSS4G:UK 2025 Community sponsor: free
 
 * logo on website and listed as a community sponsor  
 * one conference ticket  
