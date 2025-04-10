@@ -1,0 +1,34 @@
+<style>
+
+  .sponsor-grid {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex: 0 0 100%;
+  }
+
+  .sponsor-grid .aspect-box {
+    background: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    box-shadow: 0.1rem 0.1rem 0.5rem rgb(0 0 0 / 0.05), 0.15rem 0.15rem 0.75rem rgb(0 0 0 / 0.1);
+  }
+
+  .sponsor-grid img {
+    object-fit: contain;
+    max-height: 2rem;
+  }
+
+</style>
+<div class="sponsor-grid">
+  <div class="aspect-box">
+    <img src="{{ site.baseurl }}/assets/images/geolytix.svg" />
+  </div>
+  <div class="aspect-box">
+    <img src="{{ site.baseurl }}/assets/images/address_cloud.png" />
+  </div>
+  <div class="aspect-box">
+    <img src="{{ site.baseurl }}/assets/images/women_geospatial.png" />
+  </div>
+</div>
