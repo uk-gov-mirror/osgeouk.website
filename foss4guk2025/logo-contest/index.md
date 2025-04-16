@@ -29,7 +29,9 @@ Need inspiration? Check out examples of past FOSS4G logos. Get your creative jui
 
 * **File Formats:** Create your logo in **PNG** format and also in a scalable format, such as **SVG** or **PDF**. (Think big - your logo might end up on a billboard!)
 * **Not a pro with scalable formats?** No worries! Submit what you’ve got - we’re here to help make it work
-* **Upload Options:** Email your entry to <osgeouk@gmail.com> by **Sunday 13th April 2025**
+* **Upload Options:** Email your entry to <osgeouk@gmail.com>
+
+**The deadline for logo submissions has been extended to Monday 5th May 2025.**
 
 ### Prize
 
