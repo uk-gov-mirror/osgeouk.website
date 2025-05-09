@@ -9,9 +9,6 @@ FOSS4G:UK in Leeds will be the first full in-person national event in the UK sin
 
 As a sponsor you are helping us deliver the event in its entirety. Your sponsorship will go towards our logistics, organisation, venue costs, administration, and enabling OSGeo:UK to continue its work in showcasing open source GIS software in the UK.
 
-## Sponsor Tables
-We have limited space for tables in the general event space. These 3 spaces are available to rent for the duration of the conference for £500 each.
-
 ## Sponsorship Packages
 
 We’ve created the following sponsorship packages for the event, and are happy to discuss specific details for all sponsors, according to the package selected - contact our sponsorship lead [Matt Travis](mailto:matt.travis1@gmail.com) for more details.
@@ -21,6 +18,7 @@ We’ve created the following sponsorship packages for the event, and are happy 
 * large logo on website and all registration and promotional materials and listed as a Gold sponsor  
 * logo and company name added to introduction and other materials
 * talks or workshops submitted by gold tier sponsors will be prioritised for the conference programme.
+* a table for promotional material in the general meeting space.
 * banner and promotional material placement
 * three conference tickets
 
