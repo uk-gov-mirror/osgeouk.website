@@ -5,7 +5,9 @@ title: FOSS4G:UK 2025 Logo Contest
 
 # Winning Logo
 
-_The winning logo will be showcased here_
+The contest is now closed. The winning logo was kindly provided by Subhasis Chakraborty.
+
+<img src="/foss4guk2025/assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
 ## Logo Design
 
