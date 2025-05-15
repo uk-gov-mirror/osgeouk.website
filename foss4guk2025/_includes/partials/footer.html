@@ -42,3 +42,17 @@
     <img src="{{ site.baseurl }}/assets/images/leeds-university.png" />
   </a>  
 </div>
+</main>
+  <footer class="container"></footer>
+
+  {%- include partials/modal_link.html -%}
+
+  {%- if site.conference.live.streaming.enable -%}
+    {%- include partials/modal_live.html -%}
+  {%- endif -%}
+
+  <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+  <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
+
+</body>
+</html> 
