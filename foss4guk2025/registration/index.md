@@ -2,7 +2,7 @@
 layout: page
 title: Register for FOSS4G:UK 2025 Leeds
 ---
-<img src="../../images/OSGeoUK2.png" width="600" align="middle">
+<img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
 Registration for the two days of FOSS4G:UK 2025 in October is now open! Full price tickets are <b>£110</b> - please buy these if you or your organisation can afford them, as this maximises the surplus we are able to put back into open source geo projects in the UK and elsewhere through our [GoFundGeo](https://uk.osgeo.org/gofundgeo.html) programme. However there are a limited number of Early Bird tickets available at the bargain price of <b>£80</b>.
 
