@@ -3,7 +3,7 @@ layout: page
 title: FOSS4G:UK 2025 Local Organising Committee
 ---
 
-<img src="../../images/OSGeoUK2.png" width="600" align="middle">
+<img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Dennis Bauszus</h3>
 <em>Co-chair | Geolytix</em>
