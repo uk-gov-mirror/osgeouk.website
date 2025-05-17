@@ -2,7 +2,7 @@
 layout: page
 title: FOSS4G:UK 2025 Leeds Call for Talks
 ---
-<img src="assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
+<img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
 Presentations and Workshops are the beating heart of the FOSS4G conference. They offer a platform for experts to share ground-breaking research, innovative ideas, and practical solutions. By attending presentations, attendees gain valuable insights into the latest developments in the FOSS4G arena, learn from leading professionals, and spark inspiration for attendees' own work. They also foster discussion and debate, allowing attendees to connect with colleagues, ask questions, and exchange perspectives, propelling the entire FOSS4G community forward.
 
