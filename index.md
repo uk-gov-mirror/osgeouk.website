@@ -5,7 +5,7 @@ title: "OSGeo: UK"
 
 ### Save the date! FOSS4G:UK 2025 will be in Leeds on Wed 1st and Thu 2nd October 2025
 
-<img src="foss4guk2025/assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
+<a href="https://uk.osgeo.org/foss4guk2025/index.html"><img src="foss4guk2025/assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;"></a>
 
 Our next FOSS4G:UK will be an in-person event in Leeds on 1st and 2nd October 2025 - [the website is now live](https://uk.osgeo.org/foss4guk2025/index.html), and [registration](https://uk.osgeo.org/foss4guk2025/registration/) and the [call for talks](https://uk.osgeo.org/foss4guk2025/callfortalks/) are open! For all the updates follow us on social media: [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and/or [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view).
 
