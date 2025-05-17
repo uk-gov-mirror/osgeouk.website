@@ -2,6 +2,8 @@
 layout: location
 title: Location
 ---
+<img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
+
 Say hello to [Horizon Leeds](https://horizonleeds.co.uk/), an award winning, leading-edge conference learning and meeting space which champions new technology, superb locally sourced catering and vibrant, creative spaces full of natural daylight.
 
 We have chosen this modern and fully-accessible venue in Leeds City Centre as venue for FOSS4G:UK 2025.
