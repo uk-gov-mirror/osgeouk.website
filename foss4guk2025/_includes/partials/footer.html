@@ -1,5 +1,4 @@
 <style>
-
   .sponsor-grid {
     margin-top: 2rem;
     display: flex;
@@ -19,11 +18,11 @@
     object-fit: contain;
     max-height: 2rem;
   }
-
 </style>
 <h3>Our Sponsors and partners</h3>
+<h4>Gold Sponsor</h4>
 <div class="sponsor-grid">
-   <a class="aspect-box" target="_blank" href="https://uk.osgeo.org" title="OSGeo:UK">
+  <a class="aspect-box" target="_blank" href="https://uk.osgeo.org" title="OSGeo:UK">
     <img src="https://uk.osgeo.org/images/OSGeoUK2.png" />
   </a>
   <a class="aspect-box" target="_blank" href="https://geolytix.com" title="GEOLYTIX">
@@ -32,35 +31,23 @@
   <a class="aspect-box" target="_blank" href="https://www.addresscloud.com" title="Addresscloud">
     <img src="{{ site.baseurl }}/assets/images/address_cloud.png" />
   </a>
+</div>
+<h4>Silver Sponsor</h4>
+<div class="sponsor-grid">
   <a class="aspect-box" target="_blank" href="https://www.geoxphere.com/" title="GEOXPHERE">
     <img src="{{ site.baseurl }}/assets/images/geoxphere.png" />
-  </a>    
+  </a>
+</div>
+<h4>Community Sponsors</h4>
+<div class="sponsor-grid">
   <a class="aspect-box" target="_blank" href="https://womeningeospatial.org" title="Women + in Geospatial">
     <img src="{{ site.baseurl }}/assets/images/women_geospatial.png" />
   </a>
-  <a class="aspect-box" target="_blank" href="https://www.agi.org.uk" title="The Association for Geographic Information">
+  <a class="aspect-box" target="_blank" href="https://www.agi.org.uk"
+    title="The Association for Geographic Information">
     <img src="{{ site.baseurl }}/assets/images/association-graphical-information.jpg" />
   </a>
   <a class="aspect-box" target="_blank" href="https://mapaction.org" title="MapAction">
     <img src="{{ site.baseurl }}/assets/images/mapaction.png" />
   </a>
-  <!--
-  <a class="aspect-box" target="_blank" href="https://www.leeds.ac.uk/" title="University of Leeds">
-    <img src="{{ site.baseurl }}/assets/images/leeds-university.png" />
-  </a>
-  -->
 </div>
-</main>
-  <footer class="container"></footer>
-
-  {%- include partials/modal_link.html -%}
-
-  {%- if site.conference.live.streaming.enable -%}
-    {%- include partials/modal_live.html -%}
-  {%- endif -%}
-
-  <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
-  <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
-
-</body>
-</html> 
