@@ -15,4 +15,4 @@ If you're passionate about a topic and you're skilful at conveying your hands-on
 
 **Please visit the [FOSS4G:UK 2025 pretalx event page](https://talks.osgeo.org/foss4g-uk-2025/cfp) hosted by osgeo.org to submit your proposal for a talk or workshop today.**
 
-### The deadline for all submissions is Tuesday July 1st.
+### The deadline for all submissions is midnight on Friday July 18th.
