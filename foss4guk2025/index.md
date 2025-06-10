@@ -5,7 +5,7 @@ title: FOSS4G:UK 2025 Leeds
 
 <img src="assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-OSGeo:UK is happy to announce that following a series of successful distributed, online and local conferences over the past few years, we are one againg getting together for a full FOSS4G:UK event in Leeds on the 1st and 2nd of October 2025.
+OSGeo:UK is happy to announce that following a series of successful distributed, online and local conferences over the past few years, we are one again getting together for a full FOSS4G:UK event in Leeds on the 1st and 2nd of October 2025.
 
 Here are all the details:
 
