@@ -64,8 +64,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: Home
-      url: "/foss4guk2025/"
+      name: OSGeo:UK
+      url: "/"
+      img: "OSGeoUK2.svg"
     breakpoint: md
     links:
       - name: Location

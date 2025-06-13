@@ -22,9 +22,6 @@
 <h3>Our Sponsors and partners</h3>
 <h4>Gold Sponsor</h4>
 <div class="sponsor-grid">
-  <a class="aspect-box" target="_blank" href="https://uk.osgeo.org" title="OSGeo:UK">
-    <img src="https://uk.osgeo.org/images/OSGeoUK2.png" />
-  </a>
   <a class="aspect-box" target="_blank" href="https://geolytix.com" title="GEOLYTIX">
     <img src="{{ site.baseurl }}/assets/images/geolytix.svg" />
   </a>
@@ -51,3 +48,17 @@
     <img src="{{ site.baseurl }}/assets/images/mapaction.png" />
   </a>
 </div>
+</main>
+  <footer class="container"></footer>
+
+  {%- include partials/modal_link.html -%}
+
+  {%- if site.conference.live.streaming.enable -%}
+    {%- include partials/modal_live.html -%}
+  {%- endif -%}
+
+  <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+  <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
+
+</body>
+</html> 
