@@ -1,6 +1,20 @@
 <style>
-  .sponsor-grid {
+  .sponsor-title {
+    text-align: center;
+    font-size: 2rem;
     margin-top: 2rem;
+  }
+
+  .sponsor-subtitle {
+    text-align: center;
+    font-size: 1.25rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .sponsor-grid {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
     display: flex;
     gap: 1rem;
     justify-content: center;
@@ -19,8 +33,8 @@
     max-height: 2rem;
   }
 </style>
-<h3>Our Sponsors and partners</h3>
-<h4>Gold Sponsor</h4>
+<h3 class="sponsor-title">Our Sponsors and partners</h3>
+<h4 class="sponsor-subtitle">Gold Sponsor</h4>
 <div class="sponsor-grid">
   <a class="aspect-box" target="_blank" href="https://geolytix.com" title="GEOLYTIX">
     <img src="{{ site.baseurl }}/assets/images/geolytix.svg" />
@@ -28,14 +42,15 @@
   <a class="aspect-box" target="_blank" href="https://www.addresscloud.com" title="Addresscloud">
     <img src="{{ site.baseurl }}/assets/images/address_cloud.png" />
   </a>
-  <a class="aspect-box" target="_blank" href="https://www.idoxgroup.com/solutions/gis-and-geospatial/" title="IDOX Geospatial">
+  <a class="aspect-box" target="_blank" href="https://www.idoxgroup.com/solutions/gis-and-geospatial/"
+    title="IDOX Geospatial">
     <img src="{{ site.baseurl }}/assets/images/idox.png" />
   </a>
   <a class="aspect-box" target="_blank" href="https://www.cgi.com/" title="CGI">
     <img src="{{ site.baseurl }}/assets/images/CGI.svg" />
   </a>
 </div>
-<h4>Silver Sponsor</h4>
+<h4 class="sponsor-subtitle">Silver Sponsor</h4>
 <div class="sponsor-grid">
   <a class="aspect-box" target="_blank" href="https://www.geoxphere.com/" title="GEOXPHERE">
     <img src="{{ site.baseurl }}/assets/images/geoxphere.png" />
@@ -47,13 +62,13 @@
     <img src="{{ site.baseurl }}/assets/images/omf.png" />
   </a>
 </div>
-<h4>Bronze Sponsor</h4>
+<h4 class="sponsor-subtitle">Bronze Sponsor</h4>
 <div class="sponsor-grid">
   <a class="aspect-box" target="_blank" href="https://sparkgeo.com/" title="Sparkgeo">
     <img src="{{ site.baseurl }}/assets/images/sparkgeo.png" />
-  </a>  
+  </a>
 </div>
-<h4>Community Sponsors</h4>
+<h4 class="sponsor-subtitle">Community Sponsors</h4>
 <div class="sponsor-grid">
   <a class="aspect-box" target="_blank" href="https://womeningeospatial.org" title="Women + in Geospatial">
     <img src="{{ site.baseurl }}/assets/images/women_geospatial.png" />
@@ -67,16 +82,17 @@
   </a>
 </div>
 </main>
-  <footer class="container"></footer>
+<footer class="container"></footer>
 
-  {%- include partials/modal_link.html -%}
+{%- include partials/modal_link.html -%}
 
-  {%- if site.conference.live.streaming.enable -%}
-    {%- include partials/modal_live.html -%}
-  {%- endif -%}
+{%- if site.conference.live.streaming.enable -%}
+{%- include partials/modal_live.html -%}
+{%- endif -%}
 
-  <!-- Append build time to avoid caching of live program embedded in JavaScript file -->
-  <script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: "%s" }}"></script>
+<!-- Append build time to avoid caching of live program embedded in JavaScript file -->
+<script src="{{ site.baseurl }}/assets/js/main.js?t={{ site.time | date: " %s" }}"></script>
 
 </body>
-</html> 
+
+</html>
