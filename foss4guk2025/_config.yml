@@ -81,6 +81,8 @@ conference:
         relative_url: /registration/
       - name: Call for Talks
         relative_url: /callfortalks/
+      - name: Keynotes
+        relative_url: /keynotes/        
       # - name: Speakers
       #   relative_url: /speakers/
       # - name: Location
