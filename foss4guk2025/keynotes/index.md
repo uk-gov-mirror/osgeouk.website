@@ -27,14 +27,14 @@ title: FOSS4G:UK 2025 Keynote Speakers
 
 <p>With a dynamic entrepreneurial spirit spanning 17 years, Mariam has been the driving force behind the growth of numerous tech startups. Mariam’s roles as CEO, Board Member, and Strategist have consistently led to the transformation of innovative technology companies from startup to scaleup.</p>
 <p>As a purpose-driven leader, her career has been dedicated to delivering global technology solutions that make a positive Environmental and Social Impact, particularly in the realms of Geospatial and International Development. At 7 Satya, she brings invaluable locational insights, emphasising Environmental and Socioeconomic (ESG) factors, to businesses worldwide.</p>
-<p>At Women+ in Geospatial she leads the Newsletter, Events and External Communications team and site on the board.</p>
+<p>At Women+ in Geospatial she leads the Newsletter, Events and External Communications team and sits on the board.</p>
 
 <br>
 
 <div style="display: flex; gap: 1em; margin-bottom: 1em;">
     <img src="../assets/images/alisdair_rae.jpg" style="border-radius: 50%; width: 6em;">
     <div>
-        <h3 style="margin-bottom:0; padding-bottom:0;">Alisdair Rae</h3>
+        <h3 style="margin-bottom:0; padding-bottom:0;">Alasdair Rae</h3>
         <em>Head of Data and Spatial Analysis at Lanpro</em>
         <a href="https://www.linkedin.com/in/alasdair-rae-17640a124/" target="_blank"><div style="width: 2em; height: 2em; background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg); background-size: cover;"></div></a>
     </div>
