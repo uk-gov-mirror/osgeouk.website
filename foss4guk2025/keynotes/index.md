@@ -4,7 +4,7 @@ title: FOSS4G:UK 2025 Keynote Speakers
 ---
 
 <div style="display: flex; gap: 1em; margin-bottom: 1em;">
-    <img src="../assets/images/kathryn_berger.jpg" style="border-radius: 50%; width: 6em;">
+    <img src="../assets/images/kathryn_berger.jpg" style="border-radius: 50%; width: 6em; height: 6em;">
     <div>
         <h3 style="margin-bottom:0; padding-bottom:0;">Kathryn Berger</h3>
         <em>Lead Data Scientist at DSIT</em>
@@ -17,7 +17,7 @@ title: FOSS4G:UK 2025 Keynote Speakers
 <br>
 
 <div style="display: flex; gap: 1em; margin-bottom: 1em;">
-    <img src="../assets/images/mariam_crichton.jpg" style="border-radius: 50%; width: 6em;">
+    <img src="../assets/images/mariam_crichton.jpg" style="border-radius: 50%; width: 6em; height: 6em;">
     <div>
         <h3 style="margin-bottom:0; padding-bottom:0;">Mariam Crichton</h3>
         <em>INSPIRE Lead (Women+ in Geospatial) and CEO (7 Satya)</em>
@@ -32,7 +32,7 @@ title: FOSS4G:UK 2025 Keynote Speakers
 <br>
 
 <div style="display: flex; gap: 1em; margin-bottom: 1em;">
-    <img src="../assets/images/alisdair_rae.jpg" style="border-radius: 50%; width: 6em;">
+    <img src="../assets/images/alisdair_rae.jpg" style="border-radius: 50%; width: 6em; height: 6em;">
     <div>
         <h3 style="margin-bottom:0; padding-bottom:0;">Alasdair Rae</h3>
         <em>Head of Data and Spatial Analysis at Lanpro</em>
