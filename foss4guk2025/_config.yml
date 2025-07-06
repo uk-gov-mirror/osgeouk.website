@@ -82,7 +82,9 @@ conference:
       - name: Call for Talks
         relative_url: /callfortalks/
       - name: Keynotes
-        relative_url: /keynotes/        
+        relative_url: /keynotes/
+      - name: Programme
+        relative_url: /programme/      
       # - name: Speakers
       #   relative_url: /speakers/
       # - name: Location
