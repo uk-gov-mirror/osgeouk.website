@@ -2,6 +2,7 @@
 layout: page
 title: FOSS4G:UK 2025 Keynote Speakers
 ---
+<img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
 <div style="display: flex; gap: 1em; margin-bottom: 1em;">
     <img src="../assets/images/kathryn_berger.jpg" style="border-radius: 50%; width: 6em; height: 6em;">
