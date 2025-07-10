@@ -91,7 +91,7 @@ Our previous constitution can be found [here](/files/OSGeo UK Final Constitution
 __Officers__
 
 * Chair: [Nick Bearman](https://twitter.com/NickBearmanUK)
-* Secretary: [Antony Scott](https://twitter.com/antscott)
+* Secretary: [Ant Scott](https://mastodon.social/@antscott)
 * Treasurer: [Matt Travis](https://twitter.com/Yakus)
 
 __Committee__
