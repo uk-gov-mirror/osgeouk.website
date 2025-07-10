@@ -92,7 +92,7 @@ __Officers__
 
 * Chair: [Nick Bearman](https://twitter.com/NickBearmanUK)
 * Secretary: [Ant Scott](https://mastodon.social/@antscott)
-* Treasurer: [Matt Travis](https://twitter.com/Yakus)
+* Treasurer: [Matt Travis](https://www.linkedin.com/in/matt-travis-6a609321/)
 
 __Committee__
 
