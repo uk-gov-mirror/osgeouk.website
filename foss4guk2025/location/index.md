@@ -27,3 +27,9 @@ The [Leonardo Hotel Leeds](https://www.leonardohotels.co.uk/leeds/leonardo-hotel
 The [Hilton Leeds City](https://www.hilton.com/en/hotels/leehnhn-hilton-leeds-city/) is located next to Leeds Station.
 
 Both Hotels quoted us around £150 per night.
+
+<img src="../assets/images/canal_club2.jpg" style="max-height:300px; margin: auto; display: block;">
+
+## Social event at Canal Club
+
+We have booked the [Canal Club](https://www.canalclub.co.uk/) for a social event on October 1st. The club is next to the station which is about 10 minutes walk from Horizon Leeds.
