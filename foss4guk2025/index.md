@@ -15,4 +15,10 @@ Here are all the details:
 
 We will be meeting in the state of the art [Horizon](https://horizonleeds.co.uk/) venue in the heart of Leeds, so sign up now to join us!
 
+<img src="assets/images/canal_club2.jpg" style="max-height:300px; margin: auto; display: block;">
+
+## Social event at Canal Club
+
+We are organising a social event at the [Canal Club](https://www.canalclub.co.uk/) in the evening on October 1st. The club is next to Leeds Station which is about 10 minutes walk from Horizon Leeds. There will be a welcome drink and buffet at this networking event. Tickets for this event are £20 and can be selected as an optional extra through the eventbrite registration for FOSS4G:UK 2025.
+
 In the meantime, save the date, and get the latest news on [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk), [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view), and [contact us by email](mailto:osgeouk@gmail.com).
