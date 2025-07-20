@@ -12,7 +12,4 @@ Presentations are limited to 20 minutes of content with 5 minutes for questions.
 ### Workshops
 If you're passionate about a topic and you're skilful at conveying your hands-on knowledge and experience to others, this is for you! We are aiming to offer a diverse range of workshops for a variety of skill levels. Workshops can be 1 or 2hrs long. Workshops will be held alongside the General Sessions over the conference days Wednesday Oct 1st and Thursday Oct 2nd.
 
-
-**Please visit the [FOSS4G:UK 2025 pretalx event page](https://talks.osgeo.org/foss4g-uk-2025/cfp) hosted by osgeo.org to submit your proposal for a talk or workshop today.**
-
-### The deadline for all submissions is midnight on Friday July 18th.
+### The deadline for submissions has now passed - we're reviewing all proposals and will be in touch with all submitters as soon as we can.
