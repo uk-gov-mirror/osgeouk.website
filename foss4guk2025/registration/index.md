@@ -4,7 +4,7 @@ title: Register for FOSS4G:UK 2025 Leeds
 ---
 <img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-[Registration for the two days of FOSS4G:UK 2025 in October is open!](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). Full price tickets are <b>£110</b>, to cover a full programme of over 40 talks and workshops over the two days. 
+[Registration for FOSS4G:UK 2025 on 1st and 2nd October is open!](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). Full price tickets are <b>£110</b>, to cover a full programme of over 40 talks and workshops over the two days. 
 
 <img src="../assets/images/Think@-carousel-2.jpg" style="max-height:300px; margin: auto; display: block;">
 
