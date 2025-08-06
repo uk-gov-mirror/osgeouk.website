@@ -4,11 +4,11 @@ title: Register for FOSS4G:UK 2025 Leeds
 ---
 <img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-[Registration for the two days of FOSS4G:UK 2025 in October is now open!](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator) Full price tickets are <b>£110</b> - please buy these if you or your organisation can afford them, as this maximises the surplus we are able to put back into open source geo projects in the UK and elsewhere through our [GoFundGeo](https://uk.osgeo.org/gofundgeo.html) programme. However there are a <b>limited number</b> of Early Bird tickets available at the bargain price of £80 - but only until the 3rd of August, unless they are all gone by then!</b>
+[Registration for the two days of FOSS4G:UK 2025 in October is open!](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). Full price tickets are <b>£110</b>, to cover a full programme of over 40 talks and workshops over the two days. 
 
 <img src="../assets/images/canal_club2.jpg" style="max-height:300px; margin: auto; display: block;">
 
-There'll be a optional social event at the [Canal Club](https://www.canalclub.co.uk/) on the evening of 1st October for an addional cost of £20 (to cover venue costs and food), which is an add-on in the registration form. This will be a great chance to socialise with other delegates and catch up on the day's events, so please sign up if you can to enjoy an evening of networking around FOSS4G and anything else!
+There'll be a optional social event at the [Canal Club](https://www.canalclub.co.uk/) on the evening of 1st October for an addional cost of £20 (to cover venue costs and food), which is an add-on in the registration form. This will be a great chance to socialise with other delegates and catch up on the day's events, so please sign up to enjoy an evening of networking around FOSS4G and anything else!
 
 We want FOSS4G:UK 2025 to be as accessible as possible, so we have a number of codes available for two-day tickets discounted to £20. These are available for students, under represented groups, those on a low income, those in precarious employment, and anyone else for whom a full price ticket would be a barrier (financial or administrative). All of these criteria are self-defined. We very much encourage you to email osgeouk@gmail.com to ask for a code, stating which group you belong to (no further justification is needed).
 
