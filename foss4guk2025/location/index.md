@@ -2,6 +2,9 @@
 layout: location
 title: Location
 ---
+
+<h1>FOSS4G:UK 2025 Location</h1>
+
 <img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
 Say hello to [Horizon Leeds](https://horizonleeds.co.uk/), an award winning, leading-edge conference learning and meeting space which champions new technology, superb locally sourced catering and vibrant, creative spaces full of natural daylight.
@@ -31,5 +34,6 @@ Both Hotels quoted us around £150 per night.
 <img src="../assets/images/canal_club2.jpg" style="max-height:300px; margin: auto; display: block;">
 
 ## Social event at Canal Club
+
 
 We have booked the [Canal Club](https://www.canalclub.co.uk/) for a social event on October 1st. The club is next to the station which is about 10 minutes walk from Horizon Leeds.
