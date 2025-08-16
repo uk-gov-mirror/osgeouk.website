@@ -11,8 +11,8 @@ FOSS4G:UK 2025 in Leeds is fast approaching - it's on the _1st and 2nd of Octobe
 
 Here are all the details:
 
-* The Call for Talks is closed, we've reviewed the proposals, and all submitters should have been notified. We're currently finalising the programme, and it will be published very soon...
-* Early Bird tickets are now all gone, but standard tickets at £110 are great value for more than 40 talks and workshops over two days - [register here now](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). There's also a social event at £20, and £15 for a unique conference t-shirt
+* The programme is out! There are 53 talks and workshops across two days and four rooms, [check it out here](https://uk.osgeo.org/foss4guk2025/programme/) 
+* Early Bird tickets are now all gone, but standard tickets at £110 are great value too - [register here now](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). There's also a social event at £20, and £15 for a unique conference t-shirt
 
 ## Social event at Canal Club
 
