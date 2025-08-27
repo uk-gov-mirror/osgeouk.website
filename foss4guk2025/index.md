@@ -12,8 +12,7 @@ FOSS4G:UK 2025 in Leeds is fast approaching - it's on the _1st and 2nd of Octobe
 Here are all the details:
 
 * The programme is out! There are 53 talks and workshops across two days and four rooms, [check it out here](https://uk.osgeo.org/foss4guk2025/programme/) 
-* Early Bird tickets are now all gone, but standard tickets at £110 are great value too - [register here now](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). There's also a social event at £20, and £15 for a unique conference t-shirt (sales end 9th September)
-
+* Early Bird tickets are now all gone, but standard tickets at £110 are great value too - [register here now](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator). There's also a social event at £20, and £15 for a unique conference t-shirt
 ## Social event at Canal Club
 
 We are organising a social event at the [Canal Club](https://www.canalclub.co.uk/) in the evening on October 1st. The club is next to Leeds Station which is about 10 minutes walk from Horizon Leeds. There will be a welcome drink and buffet at this networking event. Tickets for this event are £20 and can be selected as an optional extra through the Eventbrite registration for FOSS4G:UK 2025.
