@@ -4,7 +4,7 @@ title: Register for FOSS4G:UK 2025 Leeds
 ---
 <img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-[Registration for FOSS4G:UK 2025 on 1st and 2nd October is open!](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator) Full price tickets are <b>£110</b>, to cover a full programme of over 50 talks and workshops over the two days. We've also added day tickets, so if you can't make the full conference, this is for you.
+[Registration for FOSS4G:UK 2025 on 1st and 2nd October is open!](https://www.eventbrite.co.uk/e/1335076522819?aff=oddtdtcreator) Full price tickets are <b>£110</b>, to cover a full programme of over 50 talks and workshops over the two days. We've also added day tickets at £60 each, so if you can't make the full conference, this is for you.
 
 <img src="../assets/images/Think@-carousel-2.jpg" style="max-height:300px; margin: auto; display: block;">
 
@@ -14,6 +14,6 @@ There'll be a optional social event at the [Canal Club](https://www.canalclub.co
 
 <img src="../assets/images/canal_club2.jpg" style="max-height:300px; margin: auto; display: block;">
 
-Conference t-shirts are an optional extra which can also be selected through the registration form for £15. We will be using [spreadshirt](https://www.spreadshirt.co.uk/) to print t-shirts prior to the conference in October. You are more than welcome to print your own shirt using the SVG logo below. We are offering the service to print shirts in order to save on delivery and printing costs. Please see these size guides for the men's and women's t-shirt.
+Conference t-shirts are an optional extra which can also be selected through the registration form for £15, but only until 9th September. We will be using [spreadshirt](https://www.spreadshirt.co.uk/) to print t-shirts prior to the conference in October. You are more than welcome to print your own shirt using the SVG logo below. We are offering the service to print shirts in order to save on delivery and printing costs. Please see these size guides for the men's and women's t-shirt.
 
 <img src="../assets/images/tshirt_size_guide.png" style="max-height:400px; margin: auto; display: block;">
