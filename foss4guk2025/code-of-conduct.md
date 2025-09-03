@@ -3,9 +3,9 @@ layout: page
 title: "FOSS4G:UK 2025 Leeds: Code of Conduct"
 ---
 
-# Code of Conduct for FOSS4G:UK 2025 Leeds
+## Code of Conduct for FOSS4G:UK 2025 Leeds
 
-## General Guidelines
+### General Guidelines
 
 FOSS4G:UK 2025 Leeds is an in person conference.
 
@@ -13,23 +13,23 @@ These guidelines are meant as a tool to help presenters and attendees have an en
 
 Participants at FOSS4G:UK 2025 Leeds are expected to act respectfully toward others in accordance with the [https://berlincodeofconduct.org/](https://berlincodeofconduct.org/).
 
-## Diversity Statement
+### Diversity Statement
 
 OSGeo welcomes and encourages participation by everyone. We are committed to being a community that everyone feels good about joining, and we will always work to treat everyone well. No matter how you identify yourself or how others perceive you: we welcome you.
 
 
-## Escalating and/Reporting a Problem
+### Escalating and/Reporting a Problem
 
 Issues that cannot be handled by the presentation chairs or conference chairs should be escalated to the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
 
 
-## Meeting recordings
+### Meeting recordings
 
-Most presentations will be recorded and uploaded to the FOSS4G:UK YouTube channel for public viewing. This is done on an opt-in basis, when you submit to the call for talks. If you wish to change your mind, then you must explicitly contact the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
+Most presentations will be recorded and uploaded to the FOSS4G:UK YouTube channel for public viewing. This is done on an opt-in basis, when you submit to the call for talks. If you wish to change your mind, then you must explicitly contact the OSGeo:UK conference committee by [email](mailto:osgeouk@gmail.com).
 
 Presentations where a code of conduct violation is known to have occurred will be treated separately and a joint decision between the presenter, chair, and the conference organising committee will be made as to whether the recording should be made available.
 
-## Be Nice
+### Be Nice
 
 We have run many in person conferences before, we hope we have thought of everything and that the day runs smoothly. But if stuff goes wrong, please be patient, we will get problems fixed as fast as we can and will provide updates. 
 
