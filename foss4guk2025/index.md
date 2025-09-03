@@ -21,3 +21,8 @@ We are organising a social event at the [Canal Club](https://www.canalclub.co.uk
 <img src="assets/images/canal_club2.jpg" style="max-height:200px; margin: auto; display: block;">
 
 In the meantime, save the date, and get the latest news on [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [Bluesky](https://bsky.app/profile/uk.osgeo.org), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk), [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view), and [contact us by email](mailto:osgeouk@gmail.com).
+
+## Code of Conduct
+
+Participants at FOSS4G:UK 2025 Leeds are expected to act respectfully toward others in accordance with the [FOSS4G:UK Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
+
