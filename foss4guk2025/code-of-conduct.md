@@ -20,7 +20,7 @@ OSGeo welcomes and encourages participation by everyone. We are committed to bei
 
 ### Escalating and/Reporting a Problem
 
-Issues that cannot be handled by the presentation chairs or conference chairs should be escalated to the OSGeo:UK conference committee by e-mail <span class="osgeoemail"></span>.
+Issues that cannot be handled by the presentation chairs or conference chairs should be escalated to the OSGeo:UK conference committee by  [email](mailto:osgeouk@gmail.com).
 
 
 ### Meeting recordings
@@ -31,7 +31,7 @@ Presentations where a code of conduct violation is known to have occurred will b
 
 ### Be Nice
 
-We have run many in person conferences before, we hope we have thought of everything and that the day runs smoothly. But if stuff goes wrong, please be patient, we will get problems fixed as fast as we can and will provide updates. 
+We have run many in person conferences before, we hope we have thought of everything and that the conference runs smoothly. But if stuff goes wrong, please be patient, we will get problems fixed as fast as we can and will provide updates. 
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
