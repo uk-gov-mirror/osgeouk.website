@@ -5,7 +5,7 @@ title: FOSS4G:UK 2025 Leeds
 
 <img src="assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-FOSS4G:UK 2025 in Leeds is fast approaching - it's on the _1st and 2nd of October_ 2025, and tickets are limited, so get yours now! We will be meeting in the state of the art [Horizon](https://horizonleeds.co.uk/) venue in the heart of Leeds.
+FOSS4G:UK 2025 in Leeds is fast approaching - it's on the _1st and 2nd of October_ 2025, and tickets sales end on 21st September, so get yours now! We will be meeting in the state of the art [Horizon](https://horizonleeds.co.uk/) venue in the heart of Leeds.
 
 <img src="assets/images/horizon1.png" style="max-height:300px; margin: auto; display: block;">
 
