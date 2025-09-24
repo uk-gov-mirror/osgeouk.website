@@ -2,14 +2,15 @@
 layout: default
 title: "OSGeo: UK"
 ---
+### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:14pm Wednesday 1st October 2025
+
+Our AGM will be held this year as part of FOSS4G:UK. Notification has been sent to the OSGeo:UK mailing list, and [the agenda is here](https://uk.osgeo.org/agm/agm2025.html). We look forward to seeing as many people as possible at the meeting to review the past year, and look to the future.
 
 ### Save the date! FOSS4G:UK 2025 will be in Leeds on Wed 1st and Thu 2nd October 2025
 
 <a href="https://uk.osgeo.org/foss4guk2025/index.html"><img src="foss4guk2025/assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;"></a>
 
-Our next FOSS4G:UK will be an in-person event in Leeds on 1st and 2nd October 2025 - [the website is now live](https://uk.osgeo.org/foss4guk2025/index.html), [registration](https://uk.osgeo.org/foss4guk2025/registration/) is open, and the [full programme of 53 talks and workshops has been published](https://uk.osgeo.org/foss4guk2025/programme/)! For all the updates follow us on social media: [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and/or [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view).
-
-There are also a range of [sponsorship](https://uk.osgeo.org/foss4guk2025/sponsor/) opportunities - places are limited so don't miss out. 
+FOSS4G:UK will be an in-person event in Leeds on 1st and 2nd October 2025 - [the website is live](https://uk.osgeo.org/foss4guk2025/index.html), and the [full programme of 51 talks and workshops has been published](https://uk.osgeo.org/foss4guk2025/programme/)! For all the updates follow us on social media: [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and/or [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view).
 
 ----
 
