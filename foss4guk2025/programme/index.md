@@ -3,7 +3,7 @@ layout: page
 title: FOSS4G:UK 2025 Programme
 ---
 
-We've got 53 talks and workshops across two days and four rooms - all the details below, don't forget to scroll all the way down / across for the full picture!
+We've got 53 talks and workshops across two days and four rooms - all the details below, don't forget to scroll all the way down / across for the full picture! [PDF version on A4 available](../assets/programme-A4.pdf)
 
 <style>
     @media (min-width: 1200px) {
