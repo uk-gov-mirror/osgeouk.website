@@ -17,7 +17,7 @@ Here are all the details:
 
 ## Social event at Canal Club
 
-We are organising a social event at the [Canal Club](https://www.canalclub.co.uk/) in the evening on October 1st. The club is next to Leeds Station which is about 10 minutes walk from Horizon Leeds. There will be a welcome drink and buffet at this networking event. Tickets for this event are £20, and sales have now ended.
+We are organising a social event at the [Canal Club](https://www.canalclub.co.uk/) in the evening on October 1st, starting at 6pm. The club is next to Leeds Station which is about 10 minutes walk from Horizon Leeds. There will be a welcome drink and buffet at this networking event. Tickets for this event are £20, and sales have now ended.
 
 <img src="assets/images/canal_club2.jpg" style="max-height:200px; margin: auto; display: block;">
 
