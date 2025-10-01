@@ -4,7 +4,7 @@ title: "OSGeo: UK"
 ---
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
-Our AGM will be held this year as part of FOSS4G:UK. Notification has been sent to the OSGeo:UK mailing list, and [the agenda is here](https://uk.osgeo.org/agm/agm2025.html). We look forward to seeing as many people as possible at the meeting to review the past year, and look to the future.
+Our AGM will be held this year as part of FOSS4G:UK. Notification has been sent to the OSGeo:UK mailing list, and [the agenda is here](https://uk.osgeo.org/agm/agm2025.html). [Slides on Google Slides](https://docs.google.com/presentation/d/1m0Nz6GT3CBhiUcxnszFMIvG23cuTVb7urZ5lRH2R5YM/edit?usp=sharing). We look forward to seeing as many people as possible at the meeting to review the past year, and look to the future. 
 
 ### Save the date! FOSS4G:UK 2025 will be in Leeds on Wed 1st and Thu 2nd October 2025
 
