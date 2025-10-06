@@ -90,14 +90,16 @@ __Officers__
 
 * Chair: [Nick Bearman](https://www.nickbearman.com/)
 * Secretary: [Ant Scott](https://mastodon.social/@antscott)
-* Treasurer: [Matt Travis](https://www.linkedin.com/in/matt-travis-6a609321/)
+* Treasurer: [Json Singh](https://jsonsingh.com)
 
 __Committee__
 
 * [Dave Barter](https://twitter.com/NautoGuide)
 * [Alastair Graham](https://social.vivaldi.net/@ajggeoger)
 * [Tom Armitage](https://www.osgeo.org/member/armitage/)
-* [Jonny Huck](http://jonnyhuck.co.uk/) (co-opted non-voting member)
+* [Jonny Huck](http://jonnyhuck.co.uk/)
+* [Dennis Bauszus](https://www.linkedin.com/in/dennis-bauszus-45b55760/)
+* [James Milner](https://www.linkedin.com/in/jameslmilner/)
 
 ### Funding
 
