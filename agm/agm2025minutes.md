@@ -47,5 +47,5 @@ title: "OSGeo UK: 2025 AGM"
 - Funding of Open Source Geo Projects
   -  It is proposed to arrange a seperate call for this after FOSS4G when finances are clearer ([GoFundGeo](https://uk.osgeo.org/gofundgeo.html)). It's likely that between £5k and £10k will be avaialable for distribution.
 - Any other business
- -  There was a discussion about diversity in the committee and membership - it was noted that no gender information was collected in registration for the conference. It was recommended that the committee should consider ways of increasing diversity across OSGeo:UK.
+ -  There was a discussion about diversity in the committee and membership - it was noted that no gender information was collected in registration for the conference, and that there should not be an expectation that women should always have to lead on this issue. It was recommended that the committee should consider ways of increasing diversity across OSGeo:UK.
 
