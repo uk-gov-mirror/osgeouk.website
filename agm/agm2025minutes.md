@@ -30,7 +30,7 @@ title: "OSGeo UK: 2025 AGM"
   - Jonny Huck (2 year term, till AGM 2027)
   - Dennis Bauszus (3 year term, till AGM 2028)
   - James Milner (3 year term, till AGM 2028)
-- Thanks to Matt Travis for his work as Treasurer 
+- Thanks to Matt Travis for his work as Treasurer since 2019
 - OSGeo:UK Membership - how should this be defined? A number of suggestions / points were noted - these will be reviewed by the committee, and any change will be put forward to a general meeting:
   - Membership  of OSGeo should be a requirement, and can also sponsor
   - Germany have a paid membership, on a sliding scale
