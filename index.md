@@ -4,19 +4,17 @@ title: "OSGeo: UK"
 ---
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
-Our AGM will be held this year as part of FOSS4G:UK. Notification has been sent to the OSGeo:UK mailing list, and [the agenda is here](https://uk.osgeo.org/agm/agm2025.html). [Slides on Google Slides](https://docs.google.com/presentation/d/1m0Nz6GT3CBhiUcxnszFMIvG23cuTVb7urZ5lRH2R5YM/edit?usp=sharing). We look forward to seeing as many people as possible at the meeting to review the past year, and look to the future. 
+Our AGM was held this year as part of FOSS4G:UK, and the [minutes](https://uk.osgeo.org/agm/agm2025minutes.html) are now available, and the [slides are here](https://docs.google.com/presentation/d/1m0Nz6GT3CBhiUcxnszFMIvG23cuTVb7urZ5lRH2R5YM/edit?usp=sharing). 
 
-### Save the date! FOSS4G:UK 2025 will be in Leeds on Wed 1st and Thu 2nd October 2025
+### FOSS4G:UK 2025 in Leeds on Wed 1st and Thu 2nd October 2025 is over!
 
 <a href="https://uk.osgeo.org/foss4guk2025/index.html"><img src="foss4guk2025/assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;"></a>
 
-FOSS4G:UK will be an in-person event in Leeds on 1st and 2nd October 2025 - [the website is live](https://uk.osgeo.org/foss4guk2025/index.html), and the [full programme of 51 talks and workshops has been published](https://uk.osgeo.org/foss4guk2025/programme/)! For all the updates follow us on social media: [LinkedIn](https://www.linkedin.com/company/osgeo-uk/), [Mastodon](https://fosstodon.org/@osgeouk), [join the mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and/or [subscribe to the newsletter](https://stats.sender.net/forms/b4160d/view).
+[FOSS4G:UK 2025](https://uk.osgeo.org/foss4guk2025/index.html) has finished - it was an great event, and we are currently asessing feedback and lessons learned - these will be shared soon, as will recordings of most sessions when they are ready. Thanks to everyone who contributed in any way! If you attended and haven't yet filled in the feedback form, you can do it [here](https://forms.gle/LoN7qH66Sn4sH3QK7).
 
 ----
 
 ### FOSS4G:UK South West 2024 - a big success!
-
-Thanks for filling out our [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSeAePBAs_10bPF49n_QQRXbQNeKuOda1dRNsAlccjDyGGBspw/viewform) for FOSS4G:UK South West 2024. Ciaran Sweet of Development Seed won an e-book copy of [Using R as a GIS](https://locatepress.com/book/rgis) in our randomiser. Congratulations! 
 
 We had a fantastic [one day FOSS4G:UK SW meetup in Bristol in November 2024](https://uk.osgeo.org/foss4guk2024/bristol.html) at our now customary venue [The Engine Shed](https://engine-shed.co.uk/) at Bristol Temple Meads station. The [programme](https://uk.osgeo.org/foss4guk2024/bristol.html#programme) got to hear presentations on great topics, discussions, and took part in networking. Of course, there was Geodrinks afterwards. 
 
@@ -42,7 +40,6 @@ Many thanks to both OSGeo:UK GoFundGeo and Addresscloud for sponsoring the event
 
 Check out the [page](code-sprint-2024.html) for more details, and if you have any questions, please email us <span class="osgeoemail"></span>. 
 
-
 ----
 
 ### OSGeo:UK Newsletter
@@ -67,13 +64,13 @@ See under _Funding_ below for more details.
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
-[FOSS4G:UK SW 2024](foss4guk2024/index.html) |[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) | [FOSS4G:UK Local 2022](/foss4guk2022local/) | [FOSS4GUK Online 2020](/foss4gukonline2020/) | [FOSS4GUK 2019](/foss4guk2019/)
+[FOSS4G:UK 2025](https://uk.osgeo.org/foss4guk2025/index.html) | [FOSS4G:UK SW 2024](foss4guk2024/index.html) |[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) | [FOSS4G:UK Local 2022](/foss4guk2022local/) | [FOSS4GUK Online 2020](/foss4gukonline2020/) | [FOSS4GUK 2019](/foss4guk2019/)
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
 ### Contact
 
-For updates follow [@osgeouk on Mastodon](https://fosstodon.org/@osgeouk), [@osgeouk on Twitter](https://twitter.com/osgeouk){:target="_newpage"}, [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, or [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"}.
+For updates follow [OSGeo:UK on LinkedIn](https://www.linkedin.com/company/osgeo-uk/posts/?feedView=all){:target="_newpage"}, [@osgeouk on Mastodon](https://fosstodon.org/@osgeouk){:target="_newpage"}, [@osgeouk on Bluesky]([https://twitter.com/osgeouk](https://bsky.app/profile/uk.osgeo.org){:target="_newpage"}, [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, or [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"}.
 
 
 ### Training
