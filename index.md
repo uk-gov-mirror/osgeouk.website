@@ -2,6 +2,11 @@
 layout: default
 title: "OSGeo: UK"
 ---
+
+### GoFundGeo 2025
+
+***GoFundGeo** is now open! [Details here](gofundgeo.html) Submission deadline **Sun 30th Nov 2025**. 
+
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
 Our AGM was held this year as part of FOSS4G:UK, and the [minutes](https://uk.osgeo.org/agm/agm2025minutes.html) are now available, and the [slides are here](https://docs.google.com/presentation/d/1m0Nz6GT3CBhiUcxnszFMIvG23cuTVb7urZ5lRH2R5YM/edit?usp=sharing). 

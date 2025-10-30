@@ -7,6 +7,28 @@ title: "OSGeo UK: GoFundGeo"
 
 ### Supporting Open Source Geospatial software development in the UK
 
+### 2024-25
+
+Every year around November we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. We usually have around £5000 to support a variety of projects, and have done previously each year since 2022. For more details of the projects we have supported, please see below.
+
+This year we have a budget of £6,000 and will be making the decision about which projects we support in early December. Come along and have your say!
+
+We are looking to use this money to fund relevant projects in the range of £500 - £1000 each that will benefit UK users.
+
+We would like to hear from you - what project(s) do you think we should fund?
+
+We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Sun 30th Nov 2025. We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these to the email list around Tue 2nd Dec, for discussion at our meeting in early December.
+
+We have funding guidelines (https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
+
+We will discuss the submissions at our meeting in early Dec, and decide which ones to fund.
+
+We are hopeful again to get support from the RGS-IBG GIScience Research Group who have previously provided funding of £250 to support GoFundGeo projects.
+
+If your organisation is interested in supporting GoFundGeo with a donation, please email <span class="osgeoemail"></span>.
+
+If you have any questions, or need any more information please email <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
+
 
 ### 2023-24
 
