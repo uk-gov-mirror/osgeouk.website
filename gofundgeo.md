@@ -19,7 +19,7 @@ We would like to hear from you - what project(s) do you think we should fund?
 
 We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Sun 30th Nov 2025. We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these to the email list around Tue 2nd Dec, for discussion at our meeting in early December.
 
-We have funding guidelines (https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
+We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
 
 We will discuss the submissions at our meeting in early Dec, and decide which ones to fund.
 
@@ -28,25 +28,6 @@ We are hopeful again to get support from the RGS-IBG GIScience Research Group wh
 If your organisation is interested in supporting GoFundGeo with a donation, please email <span class="osgeoemail"></span>.
 
 If you have any questions, or need any more information please email <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
-
-
-### 2023-24
-
-At our [AGM on 18th November 2024](https://uk.osgeo.org/agm/agm2024minutes.html), we agreed to fund a total of £5,003 across 6 projects. 
-
-* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
-* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£840 per year
-* [qgis2web](https://github.com/qgis2web/qgis2web): Supporting Andrea Ordonselli to develop gis2web, £1,000
-* [GeoServer](https://geoserver.org/behind%20the%20scenes/2024/09/10/gs3.html) Supporting GeoServer's crowdfunding campaign
-* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), £1,000
-* [GISRUK & OSGeo:UK GoFundGeo Award](https://2024.gisruk.org//osgeo/) supporting the award for 2025, last year it was awarded to [Flexurba](#flexurba-gisruk--osgeouk-gofundgeo-award) £200
-* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £3,803, we continue to be a [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
-
-[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
-
-With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £150 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
-
-We have around £1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 ----
 
@@ -96,6 +77,26 @@ Flexurba, in a library written in R with the first open reconstruction of the De
 
 Flexurba’s source code be [explored here](https://gitlab.kuleuven.be/spatial-networks-lab/research-projects/flexurba), and the documentation is included on [this website](https://flexurba-spatial-networks-lab-research-projects--e74426d1c66ecc.pages.gitlab.kuleuven.be/). Céline's paper at [GISRUK is available here](https://zenodo.org/records/10899270). 
 
+
+----
+
+### 2023-24
+
+At our [AGM on 18th November 2024](https://uk.osgeo.org/agm/agm2024minutes.html), we agreed to fund a total of £5,003 across 6 projects. 
+
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£963 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£840 per year
+* [qgis2web](https://github.com/qgis2web/qgis2web): Supporting Andrea Ordonselli to develop gis2web, £1,000
+* [GeoServer](https://geoserver.org/behind%20the%20scenes/2024/09/10/gs3.html) Supporting GeoServer's crowdfunding campaign
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), £1,000
+* [GISRUK & OSGeo:UK GoFundGeo Award](https://2024.gisruk.org//osgeo/) supporting the award for 2025, last year it was awarded to [Flexurba](#flexurba-gisruk--osgeouk-gofundgeo-award) £200
+* As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £3,803, we continue to be a [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/). 
+
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
+
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £150 to support the above projects. If your organisation is interested supporting future funding, please email <span class="osgeoemail"></span>. 
+
+We have around £1000 remaining for allocation at a later date, so if you do have a project that might qualify, please check out [funding guidlines](fundingguidelines.html) rules and let us know, via <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 ----
 

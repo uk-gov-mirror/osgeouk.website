@@ -5,7 +5,7 @@ title: "OSGeo: UK"
 
 ### GoFundGeo 2025
 
-***GoFundGeo** is now open! [Details here](gofundgeo.html) Submission deadline **Sun 30th Nov 2025**. 
+***GoFundGeo** is now open! [Details here.](gofundgeo.html) Submission deadline **Sun 30th Nov 2025**.* 
 
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
