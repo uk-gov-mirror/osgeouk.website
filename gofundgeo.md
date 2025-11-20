@@ -17,6 +17,8 @@ We are looking to use this money to fund relevant projects in the range of £500
 
 We would like to hear from you - what project(s) do you think we should fund?
 
+Currently we have two projects who have applied (qgis2web and GeoServer) and we are also looking to continue our regular funding of pgRouting, QGIS and GISRUK & OSGeo:UK GoFundGeo Award. [These are listed in Google Docs and we value your comments.](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing)
+
 We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Sun 30th Nov 2025. We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these to the email list around Tue 2nd Dec, for discussion at our meeting on 10th December 2025 12pm - 1pm on [Google Meet](https://meet.google.com/mow-pbyj-wah).
 
 We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
