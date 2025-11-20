@@ -7,7 +7,7 @@ title: "OSGeo UK: GoFundGeo"
 
 ### Supporting Open Source Geospatial software development in the UK
 
-### 2024-25
+### 2025
 
 Every year around November we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. We usually have around £5000 to support a variety of projects, and have done previously each year since 2022. For more details of the projects we have supported, please see below.
 
@@ -80,7 +80,7 @@ Flexurba’s source code be [explored here](https://gitlab.kuleuven.be/spatial-n
 
 ----
 
-### 2023-24
+### 2024
 
 At our [AGM on 18th November 2024](https://uk.osgeo.org/agm/agm2024minutes.html), we agreed to fund a total of £5,003 across 6 projects. 
 
@@ -100,7 +100,7 @@ We have around £1000 remaining for allocation at a later date, so if you do hav
 
 ----
 
-### 2022-23
+### 2023
 
 At our [AGM on 20th November 2023](https://uk.osgeo.org/agm/agm2023minutes.html), we agreed to fund a total of £5,633 across 7 projects. 
 
@@ -122,7 +122,7 @@ We have around £500-£1000 remaining for allocation at a later date, so if you 
 ----
 
 
-### 2021-22 
+### 2022 
 
 [As agreed at the 2022 AGM](https://uk.osgeo.org/agm/agm2022minutes.html){:target="_newpage"}:
 
