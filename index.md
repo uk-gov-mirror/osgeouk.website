@@ -13,7 +13,7 @@ Our AGM was held this year as part of FOSS4G:UK, and the [minutes](https://uk.os
 
 ### FOSS4G:UK 2025 in Leeds on Wed 1st and Thu 2nd October 2025 is over!
 
-<a href="https://uk.osgeo.org/foss4guk2025/index.html"><img src="images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;"></a>
+<a href="https://uk.osgeo.org/foss4guk2025/index.html"><img src="images/foss4g_uk_owl_green.png" style="max-height:200px; margin: auto; display: block;"></a>
 
 [FOSS4G:UK 2025](https://uk.osgeo.org/foss4guk2025/index.html) has finished - it was an great event, and we are currently assessing feedback and lessons learned - these will be shared soon. Recordings of most sessions are now on [YouTube](https://www.youtube.com/playlist?list=PLCvveKqdciOm-5Mfrppm1-bWmHZeUUwQo). Thanks to everyone who contributed in any way! If you attended and haven't yet filled in the feedback form, you can do it [here](https://forms.gle/LoN7qH66Sn4sH3QK7).
 
