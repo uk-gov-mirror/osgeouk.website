@@ -15,17 +15,20 @@ This year we have a budget of £6,000 and will be making the decision about whic
 
 We are looking to use this money to fund relevant projects in the range of £500 - £1000 each that will benefit UK users.
 
+We have nine projects applying for funding, for a total of £7,255.
+
+We will discuss which projects we fund at the meeting on Wed 10th Dec 12pm - 1pm, on Google Meet
+[https://meet.google.com/mow-pbyj-wah](https://meet.google.com/mow-pbyj-wah).
+
+The projects are listed in Google Docs at [https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing).
+
+We value your comments, please do have a read of the nine projects and let us know your comments. You can do this either via the email list, or by adding comments to the Google Docs document. 
+
 We would like to hear from you - what project(s) do you think we should fund?
-
-Currently we have two projects who have applied (qgis2web and GeoServer) and we are also looking to continue our regular funding of pgRouting, QGIS and GISRUK & OSGeo:UK GoFundGeo Award. [These are listed in Google Docs and we value your comments.](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing)
-
-We are making this as simple a process as possible, so please submit your ideas to <span class="osgeoemail"></span> by Sun 30th Nov 2025. We will need a short paragraph that covers what is being funded, why it is useful, who will do it and how much you are applying for. We will share these to the email list around Tue 2nd Dec, for discussion at our meeting on 10th December 2025 12pm - 1pm on [Google Meet](https://meet.google.com/mow-pbyj-wah).
 
 We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
 
 We will discuss the submissions at our meeting on 10th Dec, and decide which ones to fund.
-
-We are hopeful again to get support from the RGS-IBG GIScience Research Group who have previously provided funding of £250 to support GoFundGeo projects.
 
 If your organisation is interested in supporting GoFundGeo with a donation, please email <span class="osgeoemail"></span>.
 
