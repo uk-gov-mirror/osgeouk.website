@@ -9,30 +9,22 @@ title: "OSGeo UK: GoFundGeo"
 
 ### 2025
 
-Every year around November we use surplus funds from FOSS4G:UK conferences (and other funds) to support Open Source Geospatial software projects that will have an impact in the UK. We usually have around £5000 to support a variety of projects, and have done previously each year since 2022. For more details of the projects we have supported, please see below.
+At our meeting on 10th Dec 2025, we agreed to fund a total of £6,496 across 8 projects. 
 
-This year we have a budget of £6,000 and will be making the decision about which projects we support in early December. Come along and have your say!
+* [qgis2web](https://github.com/qgis2web/qgis2web): Supporting Andrea Ordonselli to develop gis2web, £1,000
+* [GeoNetwork](https://www.geocat.net/blog/news-1/geonetwork-5-crowdfunding-12), £1,000
+* [Chiara Gericke, LA tool takeaway outlet exposure schools](https://zenodo.org/records/15230175), £1,000
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw), £1,000
+* [Nick Bearman, development of gitRmap](https://github.com/nickbearman/open-science-activism-map), £500
+* [pgRouting Gold Sponsorship](https://pgrouting.org/donate.html#sponsors), $1200/£916 per year
+* [QGIS Sustaining Membership small level](https://www.qgis.org/en/site/about/sustaining_members.html), €1,000/£880 per year
+* [GISRUK & OSGeo:UK GoFundGeo Award](https://2024.gisruk.org//osgeo/) supporting the award for 2026, last year it was awarded to [Utilising Open Data to Enhance Park Safety for Women and Girls in Bradford](#utilising-open-data-to-enhance-park-safety-for-women-and-girls-in-bradford-gisruk--osgeouk-gofundgeo-award-2025) £200
+<!-- * As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £3,803, we continue to be a [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/).  -->
 
-We are looking to use this money to fund relevant projects in the range of £500 - £1000 each that will benefit UK users.
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 
-We have nine projects applying for funding, for a total of £7,255.
+See our latest newsletter for a summary of the projects and our discussions, and see the [Google Doc](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing) for information on the proposals and the [notes tab](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?tab=t.vkm28w38iyr9) for our discussions. 
 
-We will discuss which projects we fund at the meeting on Wed 10th Dec 12pm - 1pm, on Google Meet
-[https://meet.google.com/mow-pbyj-wah](https://meet.google.com/mow-pbyj-wah).
-
-The projects are listed in Google Docs at [https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing).
-
-We value your comments, please do have a read of the nine projects and let us know your comments. You can do this either via the email list, or by adding comments to the Google Docs document. 
-
-We would like to hear from you - what project(s) do you think we should fund?
-
-We have [funding guidelines](https://uk.osgeo.org/fundingguidelines.html) and briefly we only fund open source projects, our preference is to support discrete pieces of work, or to meet specific sponsorship levels, and we are focused on items that will benefit the UK community.
-
-We will discuss the submissions at our meeting on 10th Dec, and decide which ones to fund.
-
-If your organisation is interested in supporting GoFundGeo with a donation, please email <span class="osgeoemail"></span>.
-
-If you have any questions, or need any more information please email <span class="osgeoemail"></span> or the [email list](https://lists.osgeo.org/mailman/listinfo/uk). 
 
 ----
 

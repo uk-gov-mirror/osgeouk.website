@@ -5,7 +5,7 @@ title: "OSGeo: UK"
 
 ### GoFundGeo 2025
 
-***GoFundGeo** is now closed! Please provide your feedback on the nine projects proposed in the [Google Doc](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing). We will meet 10th December 2025 12pm - 1pm to agree which projects to fund [details here.](gofundgeo.html)* 
+[***GoFundGeo** has now awarded £6,496 across 8 projects](gofundgeo.html).* 
 
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
