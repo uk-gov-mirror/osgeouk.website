@@ -21,8 +21,6 @@ At our meeting on 10th Dec 2025, we agreed to fund a total of £6,496 across 8 p
 * [GISRUK & OSGeo:UK GoFundGeo Award](https://2024.gisruk.org//osgeo/) supporting the award for 2026, last year it was awarded to [Utilising Open Data to Enhance Park Safety for Women and Girls in Bradford](#utilising-open-data-to-enhance-park-safety-for-women-and-girls-in-bradford-gisruk--osgeouk-gofundgeo-award-2025) £200
 <!-- * As a result of sponsoring [OSGeo Projects](https://www.osgeo.org/about/how-to-become-a-sponsor/) with a total of £3,803, we continue to be a [OSGeo Silver Sponsor](https://www.osgeo.org/sponsors/).  -->
 
-[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
-
 See our latest newsletter for a summary of the projects and our discussions, and see the [Google Doc](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?usp=sharing) for information on the proposals and the [notes tab](https://docs.google.com/document/d/1UUl6NmGmUUowluU8L6dNfF6mUO9kZCOU7W1TvmPQM4I/edit?tab=t.vkm28w38iyr9) for our discussions. 
 
 

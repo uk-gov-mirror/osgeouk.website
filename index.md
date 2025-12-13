@@ -5,7 +5,7 @@ title: "OSGeo: UK"
 
 ### GoFundGeo 2025
 
-[***GoFundGeo** has now awarded £6,496 across 8 projects](gofundgeo.html).* 
+*[**GoFundGeo** has now awarded £6,496 across 8 projects](gofundgeo.html).* 
 
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
