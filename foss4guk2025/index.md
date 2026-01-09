@@ -5,7 +5,7 @@ title: FOSS4G:UK 2025 Leeds
 
 <img src="assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-FOSS4G:UK 2025 in Leeds is done and dusted! 180 delegates attended over 50 talks and workshops over the two days, and we got [great feedback](https://drive.google.com/file/d/12awtfG16wTJ51ZSk7V3bFC6we8wTS1-x/view?usp=sharing) on the event, and have [some thoughts](https://docs.google.com/document/d/1LPYCZq5SPNPDtmDTq0-xULU23YvuKhSfluDk7a5FhcQ/edit?usp=sharing) on how the event could be even better next time.
+FOSS4G:UK 2025 in Leeds is done and dusted! 180 delegates attended over 50 talks and workshops over the two days, we got [great feedback](https://drive.google.com/file/d/12awtfG16wTJ51ZSk7V3bFC6we8wTS1-x/view?usp=sharing) on the event, and have [some thoughts](https://docs.google.com/document/d/1LPYCZq5SPNPDtmDTq0-xULU23YvuKhSfluDk7a5FhcQ/edit?usp=sharing) on how the event could be even better next time.
 
 Most of the talks were recorded and are available on [YouTube](https://youtube.com/playlist?list=PLCvveKqdciOm-5Mfrppm1-bWmHZeUUwQo&si=s88iaUk4-lnRjrlk).
 
