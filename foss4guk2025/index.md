@@ -5,11 +5,7 @@ title: FOSS4G:UK 2025 Leeds
 
 <img src="assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
 
-FOSS4G:UK 2025 in Leeds is done and dusted! 180 delegates attended over 50 talks and workshops over the two days, we got [great feedback](https://drive.google.com/file/d/12awtfG16wTJ51ZSk7V3bFC6we8wTS1-x/view?usp=sharing) on the event, and have [some thoughts](https://docs.google.com/document/d/1LPYCZq5SPNPDtmDTq0-xULU23YvuKhSfluDk7a5FhcQ/edit?usp=sharing) on how the event could be even better next time.
-
-Most of the talks were recorded and are available on [YouTube](https://youtube.com/playlist?list=PLCvveKqdciOm-5Mfrppm1-bWmHZeUUwQo&si=s88iaUk4-lnRjrlk).
-
-Huge thanks to all our sponsors (see end of page), speakers, attendees, the staff at [Horizon Leeds](https://horizonleeds.co.uk/), and finally the Local Organising Committee for making this event such a success - we're thinking about possible future events in 2026 and 2027, so keep an eye on this site for more details. 
+FOSS4G:UK 2025 in Leeds is fast approaching - it's on the _1st and 2nd of October_ 2025, and tickets sales have now ended - there are no further tickets available at the venue on the day. We will be meeting in the state of the art [Horizon](https://horizonleeds.co.uk/) venue in the heart of Leeds.
 
 <img src="assets/images/horizon1.png" style="max-height:300px; margin: auto; display: block;">
 
@@ -30,4 +26,3 @@ In the meantime, get the latest news on [LinkedIn](https://www.linkedin.com/comp
 ## Code of Conduct
 
 Participants at FOSS4G:UK 2025 Leeds are expected to act respectfully toward others in accordance with the [FOSS4G:UK Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
-
