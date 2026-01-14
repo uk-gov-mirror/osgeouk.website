@@ -87,7 +87,7 @@ Training providers - see the instructions at the bottom of that page for how to 
 
 ### Legal
 
-OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016 and altered by SGM in December 2018, can be found [here](/files/OSGeoUKFinalConstitution_2018_amendments-signed.pdf){:target="_newpage"}.
+OSGeo:UK is an unincorporated organisation. Our current constitution, adopted in October 2025 is [here](files/OSGeoUKConstitution-2025_signed_NB_AS_JS.pdf){:target="_newpage"}. Our previous constitution, adopted in March 2016 and altered by SGM in December 2018, can be found [here](/files/OSGeoUKFinalConstitution_2018_amendments-signed.pdf){:target="_newpage"}.
 
 Our previous constitution can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf){:target="_newpage"}.
 

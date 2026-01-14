@@ -18,7 +18,7 @@ title: "OSGeo UK: 2025 AGM"
 	- Total Expenditure: £4,844
 	- Loss: £1,265
     - Balance at year end (end March 2025): £11,668 
-- Constitution: The [proposed changes](https://lists.osgeo.org/pipermail/uk/2025-September/001353.html), including to set term of office to three years for committee/officers, and increase the size of the committee from seven to nine, were discussed and agreed
+- Constitution: The [proposed changes](https://lists.osgeo.org/pipermail/uk/2025-September/001353.html), including to set term of office to three years for committee/officers, and increase the size of the committee from seven to nine, were discussed and agreed. [Updated constitution](OSGeoUKConstitution-2025_signed_NB_AS_JS.pdf)
 - Election of officers
   - Chair: Nick Bearman (2 year term, till AGM 2027)
   - Secretary: Ant Scott (1 year term, till AGM 2026)
