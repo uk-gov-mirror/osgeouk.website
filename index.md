@@ -3,7 +3,7 @@ layout: default
 title: "OSGeo: UK"
 ---
 
-*[Our **OSGeo:UK Members Survey 2026**](https://forms.gle/BkT2jc7x671pXoRh9) is now live!] We want to know a bit more about our members, more [details](https://lists.osgeo.org/pipermail/uk/2026-January/001405.html).*
+*[Our **OSGeo:UK Members Survey 2026** is now live, please fill it out!](https://forms.gle/BkT2jc7x671pXoRh9) We want to know a bit more about our members, more [details here](https://lists.osgeo.org/pipermail/uk/2026-January/001405.html).*
 
 *[**GoFundGeo** has now awarded £6,496 across 8 projects](gofundgeo.html).* 
 
