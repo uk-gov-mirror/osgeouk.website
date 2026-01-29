@@ -3,19 +3,23 @@ layout: default
 title: "OSGeo: UK"
 ---
 
-*Our [**OSGeo:UK Members Survey 2026**](https://forms.gle/BkT2jc7x671pXoRh9) is now live! We want to know a bit more about our members, more [details](https://lists.osgeo.org/pipermail/uk/2026-January/001405.html).*
+*[Our **OSGeo:UK Members Survey 2026**](https://forms.gle/BkT2jc7x671pXoRh9) is now live!] We want to know a bit more about our members, more [details](https://lists.osgeo.org/pipermail/uk/2026-January/001405.html).*
 
 *[**GoFundGeo** has now awarded £6,496 across 8 projects](gofundgeo.html).* 
+
+----
 
 ### OSGeo:UK AGM at FOSS4G:UK 2025 Leeds, 4:15pm Wednesday 1st October 2025
 
 Our AGM was held this year as part of FOSS4G:UK, and the [minutes](https://uk.osgeo.org/agm/agm2025minutes.html) are now available, and the [slides are here](https://docs.google.com/presentation/d/1m0Nz6GT3CBhiUcxnszFMIvG23cuTVb7urZ5lRH2R5YM/edit?usp=sharing). 
 
+----
+
 ### FOSS4G:UK 2025 in Leeds on Wed 1st and Thu 2nd October 2025 is over!
 
 <a href="https://uk.osgeo.org/foss4guk2025/index.html"><img src="images/foss4g_uk_owl_green.png" style="max-height:200px; margin: auto; display: block;"></a>
 
-FOSS4G:UK 2025 in Leeds is done and dusted! 180 delegates attended over 50 talks and workshops over the two days, we got [great feedback](https://drive.google.com/file/d/12awtfG16wTJ51ZSk7V3bFC6we8wTS1-x/view?usp=sharing) on the event, and have [some thoughts](https://docs.google.com/document/d/1LPYCZq5SPNPDtmDTq0-xULU23YvuKhSfluDk7a5FhcQ/edit?usp=sharing) on how the event could be even better next time.
+[FOSS4G:UK 2025](https://uk.osgeo.org/foss4guk2025/index.html) in Leeds is done and dusted! 180 delegates attended over 50 talks and workshops over the two days, we got [great feedback](https://drive.google.com/file/d/12awtfG16wTJ51ZSk7V3bFC6we8wTS1-x/view?usp=sharing) on the event, and have [some thoughts](https://docs.google.com/document/d/1LPYCZq5SPNPDtmDTq0-xULU23YvuKhSfluDk7a5FhcQ/edit?usp=sharing) on how the event could be even better next time.
 
 Most of the talks were recorded and are available on [YouTube](https://youtube.com/playlist?list=PLCvveKqdciOm-5Mfrppm1-bWmHZeUUwQo&si=s88iaUk4-lnRjrlk).
 
