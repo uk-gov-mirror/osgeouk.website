@@ -14,11 +14,11 @@ More information to be updated soon.
 
 ### Registration
 
-Registration informatio will be updated soon
+Registration information will be updated soon.
 
 ### Sponsors
 
-We are looking for sponsors for this event
+We are looking for sponsors for this event.
 
 ### Questions?
 
