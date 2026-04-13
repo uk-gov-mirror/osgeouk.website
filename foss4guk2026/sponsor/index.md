@@ -15,31 +15,52 @@ As a sponsor you are helping us deliver the event in its entirety. Your sponsors
 
 We’ve created the following sponsorship packages for the event, and are happy to discuss specific details for all sponsors, according to the package selected - contact [OSGeo:UK](mailto:osgeouk@gmail.com) for more details.
 
-### FOSS4G:UK 2026 Gold sponsor: [TBD]
+### FOSS4G:UK Gold sponsor: £2,500
 
-* large logo on website and all registration and promotional materials and listed as a Gold sponsor  
+* large logo on website and all registration and promotional materials and listed as a Gold sponsor
 * logo and company name added to introduction and other materials
 * talks or workshops submitted by gold tier sponsors will be prioritised for the conference programme.
 * a table for promotional material in the general meeting space.
 * banner and promotional material placement
 * three conference tickets
 
-### FOSS4G:UK 2026 Silver sponsor: [TBD]
 
-* logo on website and listed as a Silver sponsor  
-* logo and company name added to introduction and other materials  
+### FOSS4G:UK Silver sponsor: £1,500
+
+* logo on website and listed as a Silver sponsor
+* logo and company name added to introduction and other materials
 * banner and promotional material placement
 * two conference tickets
 
-### FOSS4G:UK 2026 Bronze sponsor: [TBD]
 
-* logo on website and listed as a Bronze sponsor  
-* logo and company name added to introduction  
+### FOSS4G:UK Bronze sponsor: £500
+
+* logo on website and listed as a Bronze sponsor
+* logo and company name added to introduction
 * promotional material placement
 * one conference ticket
 
-### FOSS4G:UK 2026 Community sponsor: free
 
-* logo on website and listed as a community sponsor  
-* one conference ticket  
-* number limited to three, community / non-profit groups only
+### FOSS4G:UK Social event sponsor: £500 
+
+_(limited to 2 organisations only)_
+
+* logo on website and listed as a social event sponsor
+* logo and company name added to introduction
+* one conference ticket
+* you get to feel good about helping everyone have a great time :-)  
+
+
+### FOSS4G:UK Community sponsor: free 
+
+_(limited to 3 community / non-profit groups only)_
+
+* logo on website and listed as a community sponsor
+* one conference ticket
+
+
+### FOSS4G:UK AGM sponsor: £50 
+
+_(limited to freelancers / one-person organisations only)_
+
+* logo/name listed as the sponsor at start of AGM
