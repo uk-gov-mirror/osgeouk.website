@@ -53,6 +53,8 @@ conference:
         relative_url: /location/
       - name: Sponsor
         relative_url: /sponsor/
+      - name: Call for Talks
+        relative_url: /callfortalks/
       - name: Committee
         relative_url: /committee/
 
