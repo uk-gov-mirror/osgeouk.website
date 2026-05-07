@@ -2,7 +2,7 @@
 layout: page
 title: FOSS4G:UK 2026 Leeds Call for Presentations
 ---
-<img src="../assets/images/foss4g_uk_owl_green.svg" style="max-height:200px; margin: auto; display: block;">
+<img src="../assets/images/foss4g_uk_owl_yellow_2026.png" style="max-height:100px; margin: auto; display: block;">
 
 The Call for Talks is __OPEN__! Submit your proposal here: https://talks.osgeo.org/foss4g-uk-2026/cfp
 
