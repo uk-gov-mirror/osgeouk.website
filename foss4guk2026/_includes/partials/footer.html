@@ -22,6 +22,7 @@
   }
 
   .sponsor-grid .aspect-box {
+    display: flex;
     background: white;
     padding: 0.5rem;
     border-radius: 1rem;
@@ -50,15 +51,18 @@
 <h3 class="sponsor-title">Our Sponsors and partners</h3>
 <h4 class="sponsor-subtitle">Gold Sponsors</h4>
 <div class="sponsor-grid">
-  <div class="aspect-box sponsor-card--gold">
-    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Demo gold sponsor logo placeholder"/>
-  </div>
+  <a class="aspect-box sponsor-card--gold" target="_blank" href="{{ site.baseurl }}/sponsor/" title="Gold sponsor placeholder">
+    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Gold sponsor logo placeholder"/>
+  </a>
 </div>
 <h4 class="sponsor-subtitle">Bronze Sponsors</h4>
 <div class="sponsor-grid">
-  <div class="aspect-box sponsor-card--bronze">
-    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Demo bronze sponsor logo placeholder"/>
-  </div>
+  <a class="aspect-box sponsor-card--bronze" target="_blank" href="https://www.pixalytics.com/" title="Pixalytics">
+    <img src="{{ site.baseurl }}/assets/images/sponsors/pixalytics-logo.png" alt="Pixalytics logo"/>
+  </a>
+  <a class="aspect-box sponsor-card--bronze" target="_blank" href="{{ site.baseurl }}/sponsor/" title="Bronze sponsor placeholder">
+    <img src="{{ site.baseurl }}/assets/images/sponsors/your-logo-demo.svg" alt="Bronze sponsor logo placeholder"/>
+  </a>
 </div>
 <h4 class="sponsor-subtitle">Community Sponsors</h4>
 <div class="sponsor-grid">
