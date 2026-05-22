@@ -13,12 +13,12 @@ Finally, don't forget the traditional iconic t-shirt - it's all in the form belo
 
 <img src="../assets/images/venue/Think@-carousel-2.jpg" alt="Horizon Leeds venue" style="max-height:300px; margin: auto; display: block;">
 
-<pretix-widget event="https://pretix.eu/osgeo-uk/foss4g-uk-2026/"></pretix-widget>
+<div class="pretix-widget-compat" event="https://pretix.eu/osgeo-uk/foss4g-uk-2026/"></div>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/osgeo-uk/foss4g-uk-2026/">click here</a>.
-        </div>
+                JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/osgeo-uk/foss4g-uk-2026/">click here</a>.
+                </div>
     </div>
 </noscript>
 
