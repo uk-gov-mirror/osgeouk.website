@@ -15,7 +15,7 @@ Presentations and Workshops are the beating heart of the FOSS4G conference. They
 
 Presentations are limited to 20 minutes of content with 5 minutes for questions. Presentations are delivered in the General Sessions over the conference days.
 
-Lightening talaks are limited to 5 minutes of content with no questions. Presentations are delivered in a special session.
+Lightning talks are limited to 5 minutes of content with no questions. Presentations are delivered in a special session.
 
 ### Workshops
 
