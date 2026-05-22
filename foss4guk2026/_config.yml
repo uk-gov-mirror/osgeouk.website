@@ -45,6 +45,8 @@ conference:
         relative_url: /sponsor/
       - name: Committee
         relative_url: /committee/
+      - name: Registration
+        relative_url: /registration/
 
   # Main landing page
   main:
@@ -59,7 +61,8 @@ conference:
         relative_url: /callfortalks/
       - name: Committee
         relative_url: /committee/
-
+      - name: Registration
+        relative_url: /registration/
     # Hide icons on talk overview page
     hide_icons: false
 
