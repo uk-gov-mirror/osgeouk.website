@@ -7,7 +7,7 @@ layout: page
 
 [Registration for FOSS4G:UK 2026 on 12th and 13th October is open!](https://pretix.eu/osgeo-uk/foss4g-uk-2026/) Full price tickets (normally £120) are now at early bird price of <b>£85</b> (only available till 31st July) - but <b>sales end 1st October</b> - to cover a full programme of around 50 talks and workshops over the two days. We've also added day tickets at £65 each, so if you can't make the full conference, this is for you.
 
-There'll also be a social event at the [Howard Assembly Rooms (HAR) Bar](https://www.operanorth.co.uk/howard-assembly-room/) on the evening of 12th October for an addional cost of £20 (including food and your first drink), which can be booked seperately, whether you are coming to tthe conference or not. This will be a great chance to socialise with other delegates and catch up on the day's events, so please sign up to enjoy an evening of networking around FOSS4G and anything else!
+There'll also be a social event at the [Howard Assembly Rooms (HAR) Bar](https://www.operanorth.co.uk/howard-assembly-room/) on the evening of 12th October for an addional cost of £20 (including food and your first drink), which can be booked seperately, whether you are coming to the conference or not. This will be a great chance to socialise with other delegates and catch up on the day's events, so please sign up to enjoy an evening of networking around FOSS4G and anything else!
 
 Finally, don't forget the traditional iconic t-shirt - it's all in the form below!
 
