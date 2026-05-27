@@ -6,7 +6,7 @@ title: FOSS4G:UK 2026 Leeds
 <img src="assets/images/logo.svg" alt="FOSS4G:UK 2026 Leeds logo" style="max-height:200px; margin: auto; display: block;">
 
 <div class="alert alert-info alert-dismissible fade show" role="alert">
-  <strong>🎤 Call for Talks and Registration now OPEN!</strong> Submit your presentation or workshop proposal at <a href="https://talks.osgeo.org/foss4g-uk-2026/cfp">talks.osgeo.org</a>, and register now <a hef="https://uk.osgeo.org/foss4guk2026/registration/">here</a>.
+  <strong>🎤 Call for Talks and Registration now OPEN!</strong> Submit your presentation or workshop proposal at <a href="https://talks.osgeo.org/foss4g-uk-2026/cfp">talks.osgeo.org</a>, and register now <a href="https://uk.osgeo.org/foss4guk2026/registration/">here</a>.
 </div>
 
 <img src="assets/images/venue/horizon1.png" alt="Horizon Leeds venue" style="max-height:300px; margin: auto; display: block;">
