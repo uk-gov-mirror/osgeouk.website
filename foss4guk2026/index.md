@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FOSS4G:UK 2026 Leeds
+title: FOSS4G:UK 2026 Leeds - 12/13 October
 ---
 
 <img src="assets/images/logo.svg" alt="FOSS4G:UK 2026 Leeds logo" style="max-height:200px; margin: auto; display: block;">
