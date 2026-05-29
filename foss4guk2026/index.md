@@ -26,6 +26,20 @@ Here are all the details:
 * the conference format will follow the 2025 model, with talks and workshops across multiple rooms over two days
 * more information on programme, sponsorship and related events will be added here as details are confirmed
 
+## FOSS4G:UK 2025 - What People Said
+
+* Fantastic event, thanks for organising!
+* Just to reiterate that it was beyond my expectations and really enjoyable - well done to all involved
+* Credit to all involved - well organised and well executed, a great event all round
+* The openness of the presenters and also all the other attendees is also excellent and the networking invaluable.
+* Loved it, thanks for organising!
+* Literally nothing to criticise (probably the first conference I've ever said this for!)
+* Great engagement from everyone (speakers, sponsors, delegates) made for a lot of interaction, learning and excitement.
+* Very happy to see a lot of new faces, and first time presenters. Definitely one of the best of recent events!
+* Fantastic, would definitely come again.
+* It was a good experience to present my first talk, thanks for accommodating me!
+* Well done to the FOSS4G team, great work. Big pat on the back.
+
 ## Code of Conduct
 
 Participants at FOSS4G:UK 2026 Leeds are expected to act respectfully toward others in accordance with the [FOSS4G:UK Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
