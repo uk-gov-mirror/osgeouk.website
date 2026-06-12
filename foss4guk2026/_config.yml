@@ -37,8 +37,8 @@ conference:
       img: "OSGeoUK.svg"
     breakpoint: md
     links:
-      - name: AMA
-        relative_url: /ama/
+      - name: Registration
+        relative_url: /registration/
       - name: Call for Talks
         relative_url: /callfortalks/
       - name: Location
@@ -47,8 +47,8 @@ conference:
         relative_url: /sponsor/
       - name: Committee
         relative_url: /committee/
-      - name: Registration
-        relative_url: /registration/
+      - name: AMA
+        relative_url: /ama/
 
   # Main landing page
   main:
