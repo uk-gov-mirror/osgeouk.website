@@ -20,3 +20,10 @@ Lightning talks are limited to 5 minutes of content with no questions. Presentat
 ### Workshops
 
 If you're passionate about a topic and you're skilful at conveying your hands-on knowledge and experience to others, this is for you! We are aiming to offer a diverse range of workshops for a variety of skill levels. Workshops can be 1 or 2hrs long. Workshops will be held alongside the General Sessions over the conference days.
+
+### Last Year's Schedule and Talks (for reference)
+
+If you want to see the style and scope of previous content, please take a look at:
+
+- [FOSS4G:UK 2025 Programme](https://uk.osgeo.org/foss4guk2025/programme/)
+- [FOSS4G:UK 2025 Talks Playlist](https://youtube.com/playlist?list=PLCvveKqdciOm-5Mfrppm1-bWmHZeUUwQo&si=fc6stMTbX_Xgrooi)
