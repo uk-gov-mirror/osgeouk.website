@@ -130,7 +130,7 @@ From time to time we may choose to financially support an open source GIS projec
 
 ### Donate
 
-Help us support and promote the use of open source geospatial software within the UK [by donating via PayPal](donations.html){:target="_newpage"}.
+Help us support and promote the use of open source geospatial software within the UK [by donating via Github or PayPal](donations.html){:target="_newpage"}.
 
 
 

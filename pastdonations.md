@@ -6,6 +6,7 @@ title: "OSGeo UK: Past Donations"
 ### Past Donations
 
 From 2022, OSGeo:UK has run [GoFundGeo](gofundgeo.html) annually which funds a range of Open Source Geospatial software projects that will have an impact in the UK. More details available on the [GoFundGeo](gofundgeo.html) page. 
+(Updated: Nov, 2023)
 
 ### 2022-23
 
