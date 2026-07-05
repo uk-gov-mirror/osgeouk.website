@@ -47,6 +47,8 @@ conference:
         relative_url: /sponsor/
       - name: Committee
         relative_url: /committee/
+      - name: Keynotes
+        relative_url: /keynotes/
       - name: AMA
         relative_url: /ama/
 
