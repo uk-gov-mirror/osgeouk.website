@@ -17,10 +17,10 @@ We expect to welcome a broad mix of delegates from across the open source geospa
 
 Here are all the details:
 
-* **[Call for Talks is now OPEN!](callfortalks/)** – Submit your presentation or workshop proposal
-* **[Registration now OPEN!](registration/)** – Get your tickets, including Early Bird by 31st July
-* the conference format will follow the 2025 model, with talks and workshops across multiple rooms over two days
-* more information on programme, sponsorship and related events will be added here as details are confirmed
+* **[Call for Talks is now CLOSED!](callfortalks/)** – You can still access your proposal. Stay Tuned while we create the schedule
+* **[Registration now OPEN!](registration/)** – Get your ticket, T-Shirt and limited social evening seats.
+* The conference format will follow the 2025 model, with talks and workshops across multiple rooms over two days
+* More information on programme, sponsorship and related events will be added here as details are confirmed
 
 ## FOSS4G:UK 2025 - What People Said
 
