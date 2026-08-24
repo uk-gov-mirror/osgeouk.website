@@ -58,4 +58,24 @@ She leads an interdisciplinary team working on developing theoretical and applie
 <p>
 Her work is founded on the principle that data missingness can be considered as useful data and to get insights into the underlying causes of exclusion, enabling the development of more inclusive and equitable Geo-AI.
 </p>
+
+<br>
+
+<div style="display: flex; gap: 1em; margin-bottom: 1em;">
+    <img src="../assets/images/keynotes/khalid.jpeg" style="border-radius: 50%; width: 6em; height: 6em;">
+    <div>
+        <h3 style="margin-bottom:0; padding-bottom:0; display:flex; align-items:center;">Dr Fakhar Khalid
+        <a href="https://www.linkedin.com/in/fakharkhalid/" target="_blank"><div style="width: 1.75rem; height: 1.75rem; margin-left:1rem; background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg); background-size: cover;"></div></a></h3>
+        <em>Chief Scientist, CTO and Head of Sensat Labs</em>
+        <br/>
+        <em>Sensat</em>
+    </div>
+
+</div>
+
+<p> Fakhar Khalid is a data scientist, technologist and Chief Scientist, CTO and Head of Sensat Labs at Sensat. He works at the intersection of geospatial data, AI, machine learning and digital twins. His work has focused on using highly detailed 3D geospatial data and automation to transform how major infrastructure is planned, built and managed. 
+</p>
+<p>
+At Sensat, his work contributes to digital twin technology being used across more than $150 billion of infrastructure projects worldwide. Khalid brings a fascinating perspective on how AI, geospatial technology and open data are changing the way we understand and manage the physical world. His keynote will explore the opportunities and challenges around modern geospatial, drawing on his experience of taking cutting-edge technology from research and development into real-world applications. 
+</p>
 <br>
