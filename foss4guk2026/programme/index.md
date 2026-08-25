@@ -21,6 +21,7 @@ pretalx-schedule {
   position: relative;
   left: 50%;
   transform: translateX(-50%);
+  overflow: auto;
 }
 </style>
 
