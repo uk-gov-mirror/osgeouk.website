@@ -62,7 +62,7 @@ Her work is founded on the principle that data missingness can be considered as 
 <br>
 
 <div style="display: flex; gap: 1em; margin-bottom: 1em;">
-    <img src="../assets/images/keynotes/khalid.jpeg" style="border-radius: 50%; width: 6em; height: 6em;">
+    <img src="../assets/images/keynotes/khalid.png" style="border-radius: 50%; width: 6em; height: 6em;">
     <div>
         <h3 style="margin-bottom:0; padding-bottom:0; display:flex; align-items:center;">Dr Fakhar Khalid
         <a href="https://www.linkedin.com/in/fakharkhalid/" target="_blank"><div style="width: 1.75rem; height: 1.75rem; margin-left:1rem; background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg); background-size: cover;"></div></a></h3>
