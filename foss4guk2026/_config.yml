@@ -39,8 +39,8 @@ conference:
     links:
       - name: Registration
         relative_url: /registration/
-      - name: Call for Talks
-        relative_url: /callfortalks/
+      - name: Programme
+        relative_url: /programme/
       - name: Location
         relative_url: /location/
       - name: Sponsor
@@ -61,8 +61,8 @@ conference:
         relative_url: /location/
       - name: Sponsor
         relative_url: /sponsor/
-      - name: Call for Talks
-        relative_url: /callfortalks/
+      - name: Programme
+        relative_url: /programme/
       - name: Committee
         relative_url: /committee/
       - name: Registration
