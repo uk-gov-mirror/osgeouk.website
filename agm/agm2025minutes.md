@@ -43,7 +43,7 @@ title: "OSGeo UK: 2025 AGM"
 - [FOSS4G:UK 2025](https://uk.osgeo.org/foss4guk2025/index.html){:target="_newpage"} has been a big success - 180 delegates, 50+ talks and workshops, and positive feedback so far.
 - Future events
     - FOSS4G:UK 2026? This was not discussed specifically, but would be possibility if there is a group that wants to organise it.
-    - [Discussion on international event 2nd October 13:30](https://talks.osgeo.org/foss4g-uk-2025/talk/88DKSH/) This discussion was held on the second day of the conference - in short there is a desire to bid for FOSS4G for 2017 for the UK in Bristol, and around 20 people are willing to get involved.
+    - [Discussion on international event 2nd October 13:30](https://talks.osgeo.org/foss4g-uk-2025/talk/88DKSH/) This discussion was held on the second day of the conference - in short there is a desire to bid for FOSS4G for 2027 for the UK in Bristol, and around 20 people are willing to get involved.
 - Funding of Open Source Geo Projects
   -  It is proposed to arrange a seperate call for this after FOSS4G when finances are clearer ([GoFundGeo](https://uk.osgeo.org/gofundgeo.html)). It's likely that between £5k and £10k will be avaialable for distribution.
 - Any other business
